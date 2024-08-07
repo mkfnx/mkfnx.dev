@@ -1,0 +1,15 @@
+---
+title: "Aprende  Diseno De  Software A Traves De Ejemplos En  Python"
+description: "aprende  diseno de  software a traves de ejemplos en  python"
+date: 2024-08-04
+image: "/images/posts/05.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['Aprende', 'diseño', 'Software', 'Python', 'LibroGratuito', 'desarrolloDeSoftware']
+draft: True
+slug: "aprende-diseno-de-software-a-traves-de-ejemplos-en-python"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7353002990887849221}" data-video-id="7353002990887849221" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> aprende  diseno </section> <a title="Aprende" target="_blank" href="https://www.tiktok.com/tag/Aprende?refer=embed">#Aprende</a><a title="diseño" target="_blank" href="https://www.tiktok.com/tag/diseño?refer=embed">#diseño</a><a title="Software" target="_blank" href="https://www.tiktok.com/tag/Software?refer=embed">#Software</a><a title="Python" target="_blank" href="https://www.tiktok.com/tag/Python?refer=embed">#Python</a><a title="LibroGratuito" target="_blank" href="https://www.tiktok.com/tag/LibroGratuito?refer=embed">#LibroGratuito</a><a title="desarrolloDeSoftware" target="_blank" href="https://www.tiktok.com/tag/desarrolloDeSoftware?refer=embed">#desarrolloDeSoftware</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+Learn software design through examples in Python with this free book the examples shown in the book They are tools that programmers use every day. example,  a code interpreter an HTML validator or a package manager The author mentions that the best way to learn design is studying examples and the most accessible examples to analyze are those with which people they are already familiarized these projects They will be constructed starting from simpler concepts and examples. for example,  here is the program for chapter 3 to find duplicate files is then used in the programs of chapter 10 and chapter 20. The focus of the book is based on three main ideas. The first is that the complexity in systems increases rapidly. the way the components of the system increase and what is the design process in which we create and organize these components to achieve manage that complexity The second is that experts handle levels of abstraction. higher than beginners which allows them to focus less on details as the syntax of the code and more in general ideas,  like the design and the third is that the programs They are just another type of information or data. since the source code is actually just text and a program in memory in reality,  it's just a data structure this idea of treating code as information allows difficult problems to be solved in a more elegant way all the contents of the book including the source code is under the Creative Commons Attribution License and you can find it in the Git repository 

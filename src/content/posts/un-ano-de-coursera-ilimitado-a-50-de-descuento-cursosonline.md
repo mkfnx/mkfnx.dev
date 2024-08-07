@@ -1,0 +1,15 @@
+---
+title: "Un Ano De  Coursera Ilimitado A 50  De Descuento  Cursosonline"
+description: "un ano de  coursera ilimitado a 50  de descuento  cursosonline"
+date: 2024-08-04
+image: "/images/posts/03.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['Coursera', 'CursosOnline', 'Promociones', 'Ofertas', 'o', 'CertificaciónGoogle', 'CertificaciónMicrosoft']
+draft: True
+slug: "un-ano-de-coursera-ilimitado-a-50-de-descuento-cursosonline"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7328514475659709702}" data-video-id="7328514475659709702" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> un ano de  cour </section> <a title="Coursera" target="_blank" href="https://www.tiktok.com/tag/Coursera?refer=embed">#Coursera</a><a title="CursosOnline" target="_blank" href="https://www.tiktok.com/tag/CursosOnline?refer=embed">#CursosOnline</a><a title="Promociones" target="_blank" href="https://www.tiktok.com/tag/Promociones?refer=embed">#Promociones</a><a title="Ofertas" target="_blank" href="https://www.tiktok.com/tag/Ofertas?refer=embed">#Ofertas</a><a title="o" target="_blank" href="https://www.tiktok.com/tag/o?refer=embed">#o</a><a title="CertificaciónGoogle" target="_blank" href="https://www.tiktok.com/tag/CertificaciónGoogle?refer=embed">#CertificaciónGoogle</a><a title="CertificaciónMicrosoft" target="_blank" href="https://www.tiktok.com/tag/CertificaciónMicrosoft?refer=embed">#CertificaciónMicrosoft</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+promoción de un año de Coursera ilimitado al 50% de descuento te da acceso a más de 7 000 cursos de instituciones como Google, Microsoft, Meta o Yale este es el mejor descuento que Coursera tiene en el año con esta promoción esta membresía  costaría aproximadamente $1 al día el link a esta oferta te la dejo en este video o en la página de mi perfil revisé los costos de algunas de las certificaciones más populares para que sepas cuándo te conviene esta promoción cuando una certificación es muy larga como esta de backend de meta que tiene un tiempo estimado de 8 meses para completarse y cuesta aproximadamente$50* usd al mes también hay certificaciones con un costo algo más elevado como las de Google que aunque se estima que tarden algo menos de tiempo en completarse el costo de la mensualidad hace que sea más conveniente adquirir la membresía con descuento también sería más conveniente si piensas tomar más de una certificación o varios cursos de diferentes instituciones y también si quisieras tomar una especialización a un ritmo más relajado y por último, si quieres saber si algún curso en particular está incluido en esta membresía simplemente, tienes que ir a la página del curso y buscar este mensajito que está aquí incluido con Coursera Plus 

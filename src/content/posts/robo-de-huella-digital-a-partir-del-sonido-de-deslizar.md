@@ -1,0 +1,15 @@
+---
+title: "Robo De Huella Digital A Partir Del Sonido De Deslizar"
+description: "robo de huella digital a partir del sonido de deslizar"
+date: 2024-08-04
+image: "/images/posts/04.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['Infosec', 'Hacking', 'seguridadinformatica', 'investigacion', 'ResearchPaper']
+draft: True
+slug: "robo-de-huella-digital-a-partir-del-sonido-de-deslizar"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7338192149151763718}" data-video-id="7338192149151763718" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> robo de huella  </section> <a title="Infosec" target="_blank" href="https://www.tiktok.com/tag/Infosec?refer=embed">#Infosec</a><a title="Hacking" target="_blank" href="https://www.tiktok.com/tag/Hacking?refer=embed">#Hacking</a><a title="seguridadinformatica" target="_blank" href="https://www.tiktok.com/tag/seguridadinformatica?refer=embed">#seguridadinformatica</a><a title="investigacion" target="_blank" href="https://www.tiktok.com/tag/investigacion?refer=embed">#investigacion</a><a title="ResearchPaper" target="_blank" href="https://www.tiktok.com/tag/ResearchPaper?refer=embed">#ResearchPaper</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+This new attack can steal your fingerprint just by  capturing the sound of your finger by swiping across the screen.  This is described in the PrintListener article,  published by researchers from several universities in China,  which has been reported in several media,  some of which have the article available for download.  This attack is possible when using an application that accesses the microphone,  but at the same time allows you to continue performing actions on the  screen or spyware applications that were previously  installed on a hacked device.  The result of his experiments in real-world scenarios has had a prevalence  of up to 27.9% for partial fingerprints and 9.3% for complete fingerprints.  The process for the reconstruction of the  footprint from sound is quite elaborate.  It consists of these three phases,  which in turn are composed of several steps each.  As defense measures to this attack we obviously  mention trying not to use your fingers when making a call,  also that communication applications reduce the frequency of sound sampling,  apply noise reduction filters and display  warnings that report the risk of such attacks.  In addition,  the use of screen protectors can change the sound  of friction and make this attack more difficult.  That this would have the disadvantage of  being exposed to other types of attacks,  which take advantage of the marks left by  the fingers on certain types of protectors.  The laboratory that originated this publication is the Network  information Systems and Security Privacy Lab and the article will  be presented at this symposium to be held from February 26 to March 1. 

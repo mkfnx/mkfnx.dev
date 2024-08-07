@@ -1,0 +1,15 @@
+---
+title: "Consejos Para Crear Un P Ortafolio De  Proyectos Que De Verdad"
+description: "consejos para crear un p ortafolio de  proyectos que de verdad"
+date: 2024-08-04
+image: "/images/posts/01.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['ortafolio', 'proyectos', 'trabajo', 'IngenieroDeDatos', 'IngenieríaDeDatos', 'JavaScript', 'Frontend']
+draft: True
+slug: "consejos-para-crear-un-p-ortafolio-de-proyectos-que-de-verdad"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7360796788380486918}" data-video-id="7360796788380486918" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> consejos para c </section> <a title="ortafolio" target="_blank" href="https://www.tiktok.com/tag/ortafolio?refer=embed">#ortafolio</a><a title="proyectos" target="_blank" href="https://www.tiktok.com/tag/proyectos?refer=embed">#proyectos</a><a title="trabajo" target="_blank" href="https://www.tiktok.com/tag/trabajo?refer=embed">#trabajo</a><a title="IngenieroDeDatos" target="_blank" href="https://www.tiktok.com/tag/IngenieroDeDatos?refer=embed">#IngenieroDeDatos</a><a title="IngenieríaDeDatos" target="_blank" href="https://www.tiktok.com/tag/IngenieríaDeDatos?refer=embed">#IngenieríaDeDatos</a><a title="JavaScript" target="_blank" href="https://www.tiktok.com/tag/JavaScript?refer=embed">#JavaScript</a><a title="Frontend" target="_blank" href="https://www.tiktok.com/tag/Frontend?refer=embed">#Frontend</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+tips for your project portfolio I really help you get a job. This information comes from a post on Zach Wilson's blog. in which he talks about an entire roadmap for data engineering mentions that his portfolio was crucial to get a job at Facebook since students at their university normally they were not hired there their recommendations for the portfolio projects are do it about things that you are passionate about He created an application to build Magic: The Gathering decks. which reached 40,000 active users per month the work dedicated to the project It should be between 5 and 10 hours a week. for about three months which is quite comparable to an average portfolio project but it mentions just this amount of work is what will make it stand out unlike easy projects how many people already include it in their portfolios It highlights the importance of having a project that has a front end. since this makes it easier to showcase the project The projects must also have complete documentation. pipelines running in production important technologies like Spark and snowflake and a more specialized front end that even makes use of JavaScript It cites its Halo Gods site as an example. a site for collecting statistics on Halo matches which he used to find an ideal team that would complement him. and thus reach up to the 20th ranking in the world. Tell me in comments what you think about these recommendations. and if you have any other 

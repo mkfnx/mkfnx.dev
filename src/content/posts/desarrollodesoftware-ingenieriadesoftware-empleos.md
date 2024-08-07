@@ -1,0 +1,15 @@
+---
+title: "Desarrollodesoftware  Ingenieriadesoftware  Empleos"
+description: "desarrollodesoftware  ingenieriadesoftware  empleos"
+date: 2024-08-04
+image: "/images/posts/07.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['desarrollodesoftware', 'ingenieriadesoftware', 'empleos']
+draft: True
+slug: "desarrollodesoftware-ingenieriadesoftware-empleos"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7060289065354071301}" data-video-id="7060289065354071301" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> desarrollodesof </section> <a title="desarrollodesoftware" target="_blank" href="https://www.tiktok.com/tag/desarrollodesoftware?refer=embed">#desarrollodesoftware</a><a title="ingenieriadesoftware" target="_blank" href="https://www.tiktok.com/tag/ingenieriadesoftware?refer=embed">#ingenieriadesoftware</a><a title="empleos" target="_blank" href="https://www.tiktok.com/tag/empleos?refer=embed">#empleos</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+Oportunidad de Inter ship en encora México. Encora es la empresa en donde yo trabajo actualmente. Una de las cosas que más me gustan de la empresa es justamente este programa de Inter ship, porque creo que es un gran programa para completar tu formación profesional. El programa dura aproximadamente 6 meses y consta de varias fases bastante interesantes. Por ejemplo, la primera, conocida como el reset, trata sobre adquirir conocimientos fundamentales sobre varias áreas que es un poco diferente a lo que se enseña en la escuela, por ejemplo temas como group Vincent o revisar tus técnicas de aprendizaje. Otras fases del programa son bastante prácticas, en la fase de timbor tienes que trabajar con otros miembros del programa para construir software completamente funcional que solucione algún problema real, y en otra fase tendrás que trabajar para realizar aportaciones significativas a proyectos opensors. Ya para la parte final del programa se trabaja en mejorar tu comunicación en prepararte para incorporarte a un proyecto laboral, ya sea en encuera o en alguna otra empresa. Además, durante todo el programa estarás acompañado de un par de desarrolladores senior, los cuales actuarán como tus mentores y a los cuales puedes consultarle muchas dudas y en general buscar aprender todo lo posible de ellos. Los 6 meses de duración del programa recibes una beca y terminando el programa está la posibilidad de incorporarte en cora como empleado de tiempo completo. Si te interesa aplicar el programa o te gustaría saber más, voy A dejar aquí un link a mi blog de hip hop en donde pongo los enlaces y correos para que puedas aplicar y también un par de videos en donde se habla más de este programa. Uno de ellos es este con varios ex participantes del programa que trabajaron durante un tiempo en encora y algunos ya están en otras empresas, y esta otra entrevista que tuvimos con Daira, la coordinadora del programa 

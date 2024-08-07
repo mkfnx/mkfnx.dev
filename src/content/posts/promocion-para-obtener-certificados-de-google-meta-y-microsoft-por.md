@@ -1,0 +1,15 @@
+---
+title: "Promocion Para Obtener Certificados De Google  Meta Y Microsoft Por"
+description: "promocion para obtener certificados de google  meta y microsoft por"
+date: 2024-08-04
+image: "/images/posts/06.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['DesarrolloDeSoftware', 'AnalisisDeDatos', 'CienciaDeDatos', 'DesarrolloWeb', 'DesarrolloMovil', 'Promociones', 'CursosOnline']
+draft: True
+slug: "promocion-para-obtener-certificados-de-google-meta-y-microsoft-por"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7246537365991197957}" data-video-id="7246537365991197957" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> promocion para  </section> <a title="DesarrolloDeSoftware" target="_blank" href="https://www.tiktok.com/tag/DesarrolloDeSoftware?refer=embed">#DesarrolloDeSoftware</a><a title="AnalisisDeDatos" target="_blank" href="https://www.tiktok.com/tag/AnalisisDeDatos?refer=embed">#AnalisisDeDatos</a><a title="CienciaDeDatos" target="_blank" href="https://www.tiktok.com/tag/CienciaDeDatos?refer=embed">#CienciaDeDatos</a><a title="DesarrolloWeb" target="_blank" href="https://www.tiktok.com/tag/DesarrolloWeb?refer=embed">#DesarrolloWeb</a><a title="DesarrolloMovil" target="_blank" href="https://www.tiktok.com/tag/DesarrolloMovil?refer=embed">#DesarrolloMovil</a><a title="Promociones" target="_blank" href="https://www.tiktok.com/tag/Promociones?refer=embed">#Promociones</a><a title="CursosOnline" target="_blank" href="https://www.tiktok.com/tag/CursosOnline?refer=embed">#CursosOnline</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+certificados de empresas como Google meta y Microsoft por tan solo $1 gracias a esta promoción de Coursera  por $1 tendrás acceso a los más de 7 000 cursos de la membresía Coursera plus ya he hablado antes de estos cursos como los de análisis de datos de Google ya he hablado antes de estos cursos como los de análisis de datos de Google o los de desarrollo web y móvil de meta o los de desarrollo web y móvil de meta dejo los links en la descripción dejo los links en la descripción durante el mes de promoción durante el mes de promoción puedes completar cursos de distintos temas puedes completar cursos de distintos temas o trabajar hacia un programa de certificación como los que mencioné o trabajar hacia un programa de certificación como los que mencioné como siempre como siempre los enlaces para acceder a la promoción los encuentras en el link de mi perfil los enlaces para acceder a la promoción los encuentras en el link de mi perfil como referencia como referencia aquí están los costos normales de la membresía de Coursera aquí están los costos normales de la membresía de Coursera así que pienso que esta es una gran oportunidad para al menos así que pienso que esta es una gran oportunidad para al menos explorar la plataforma y obtener un par de certificados explorar la plataforma y obtener un par de certificados 

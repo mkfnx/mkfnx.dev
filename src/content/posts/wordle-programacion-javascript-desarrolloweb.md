@@ -1,0 +1,15 @@
+---
+title: "Wordle  Programacion  Javascript  Desarrolloweb"
+description: "wordle  programacion  javascript  desarrolloweb"
+date: 2024-08-04
+image: "/images/posts/03.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['wordle', 'programación', 'javascript', 'desarrolloweb']
+draft: True
+slug: "wordle-programacion-javascript-desarrolloweb"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7055123487484022021}" data-video-id="7055123487484022021" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> wordle  program </section> <a title="wordle" target="_blank" href="https://www.tiktok.com/tag/wordle?refer=embed">#wordle</a><a title="programación" target="_blank" href="https://www.tiktok.com/tag/programación?refer=embed">#programación</a><a title="javascript" target="_blank" href="https://www.tiktok.com/tag/javascript?refer=embed">#javascript</a><a title="desarrolloweb" target="_blank" href="https://www.tiktok.com/tag/desarrolloweb?refer=embed">#desarrolloweb</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+Probablemente ya conoces World of wartle, es un juego similar al juego del ahorcado en el que cada día hay una palabra diferente para que adivines, y al menos en Twitter está muy de moda y vemos a miles de personas publicando sus resultados cada hora. Pues vamos a replicar el juego de moda en JavaScript. Así se verá corriendo el local host y comienza con un archivo HTML. Contiene la sección del título, un dip para la sección del juego llamado Game board y una fila para cada intento, cada intento con 5 Casillas para las letras, luego un dip para el teclado. Contiene las teclas para cada letra y de las funciones enter y borrar, y al final incluimos un archivo JavaScript para la lógica del juego. En cuanto a los estilos SS, tenemos clases para cada uno de los elementos, el teclado, las teclas y las casillas del juego, y para posicionamiento estamos usando Flex, el archivo principal. Para la lógica tenemos variables para almacenar los objetos de la página nuevamente, el tablero, el teclado, etc. variables para el estado del juego, figuramos lesiones para manejar los eventos de presionar las teclas. Acá manejamos cada tipo de tecla, tecla enter para mandar un intento de adivinar, tecla para borrar una letra y la tecla para colocar las letras, algunas funciones para mostrar el estado del juego, como las letras que ya fueron usadas en algún intento o los resultados de cada intento. La verdadera lógica del Juego está en otro archivo, es en esta función evaloid, que es básicamente compara las letras de la palabra adivinar con el intento que hayamos enviado y vemos cómo ingresamos la palabra o borramos algunas letras y cuando adivinamos la palabra, ¡listo! Dejo el link del proyecto en GitHub. En los comentarios comenta si te gustarían más videos con detalles de cómo funciona 

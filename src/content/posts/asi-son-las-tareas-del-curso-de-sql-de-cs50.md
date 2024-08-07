@@ -1,0 +1,15 @@
+---
+title: "Asi Son Las Tareas Del Curso De  Sql De  Cs50"
+description: "asi son las tareas del curso de  sql de  cs50"
+date: 2024-08-04
+image: "/images/posts/07.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['SQL', 'CS50', 'Harvard', 'CursosOnline', 'CursosGratis', 'AnálisisDeDatos', 'BasesDeDatos', 'SQLite']
+draft: True
+slug: "asi-son-las-tareas-del-curso-de-sql-de-cs50"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7294446686834019589}" data-video-id="7294446686834019589" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> asi son las tar </section> <a title="SQL" target="_blank" href="https://www.tiktok.com/tag/SQL?refer=embed">#SQL</a><a title="CS50" target="_blank" href="https://www.tiktok.com/tag/CS50?refer=embed">#CS50</a><a title="Harvard" target="_blank" href="https://www.tiktok.com/tag/Harvard?refer=embed">#Harvard</a><a title="CursosOnline" target="_blank" href="https://www.tiktok.com/tag/CursosOnline?refer=embed">#CursosOnline</a><a title="CursosGratis" target="_blank" href="https://www.tiktok.com/tag/CursosGratis?refer=embed">#CursosGratis</a><a title="AnálisisDeDatos" target="_blank" href="https://www.tiktok.com/tag/AnálisisDeDatos?refer=embed">#AnálisisDeDatos</a><a title="BasesDeDatos" target="_blank" href="https://www.tiktok.com/tag/BasesDeDatos?refer=embed">#BasesDeDatos</a><a title="SQLite" target="_blank" href="https://www.tiktok.com/tag/SQLite?refer=embed">#SQLite</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+así son las tareas de la primera unidad del curso de SQL de CS50 de Harvard en la página de cada una de las unidades vas a encontrar un enlace llamado problem set al dar clic en ese enlace vas a ser dirigido a la página de la tarea cada una tiene varios problemas a resolver por ejemplo para la tarea de la unidad cero hay que resolver 3 de 4 problemas "Cyber Chase" uno de estos dos "36 views" o "normals" y "players" y en cada uno de los problemas vas a tener que escribir varias consultas para responder preguntas sobre los datos en todos los problemas de la primera semana vas a trabajar con bases de datos de una sola tabla sigue estas instrucciones de "distribution code" para obtener la base de datos correspondiente en cuanto a los temas de los problemas el primero es Cyber Chase trata sobre información de los episodios de una serie educativa de Estados Unidos 36 views trata sobre datos de estas imágenes del monte Fuji que incluyen a la famosa ola de kanagawa normals trata sobre obtener información de la temperatura del océano en varias coordenadas y finalmente players trata sobre información de los jugadores de la MLB la liga de béisbol de Estados Unidos comenta si hay algún otro tema del que te gustaría que hablara y no te olvides de seguirme ya que estaré creando más contenido sobre este 

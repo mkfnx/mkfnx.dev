@@ -1,0 +1,15 @@
+---
+title: "Libros Gratuitos De Programacion Y Ciencia De Datos  Programacion  Cienciadedatos"
+description: "libros gratuitos de programacion y ciencia de datos  programacion  cienciadedatos"
+date: 2024-08-04
+image: "/images/posts/06.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['Programación', 'CienciaDeDatos', 'LibrosGratuitos', 'Python', 'Java', 'Estadistica', 'EbooksGratis']
+draft: True
+slug: "libros-gratuitos-de-programacion-y-ciencia-de-datos-programacion-cienciadedatos"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7226132998226283781}" data-video-id="7226132998226283781" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> libros gratuito </section> <a title="Programación" target="_blank" href="https://www.tiktok.com/tag/Programación?refer=embed">#Programación</a><a title="CienciaDeDatos" target="_blank" href="https://www.tiktok.com/tag/CienciaDeDatos?refer=embed">#CienciaDeDatos</a><a title="LibrosGratuitos" target="_blank" href="https://www.tiktok.com/tag/LibrosGratuitos?refer=embed">#LibrosGratuitos</a><a title="Python" target="_blank" href="https://www.tiktok.com/tag/Python?refer=embed">#Python</a><a title="Java" target="_blank" href="https://www.tiktok.com/tag/Java?refer=embed">#Java</a><a title="Estadistica" target="_blank" href="https://www.tiktok.com/tag/Estadistica?refer=embed">#Estadistica</a><a title="EbooksGratis" target="_blank" href="https://www.tiktok.com/tag/EbooksGratis?refer=embed">#EbooksGratis</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+esta editorial de libros de tecnología ofrece todo su contenido de manera gratuita la editorial se llama green tea press y estos son los libros que han publicado modelado y simulación con Python estadística vallesiana con Python, Java estructuras de datos Python, estadística complejidad y procesamiento de señales digitales para descargar los libros solo tienes que ir a la página principal greenteapress.com y dar clic en alguno de estos enlaces del libro que te interese esto te lleva a una página de detalles del libro por ejemplo este de Java y aquí vas a encontrar varios enlaces para descargarlos en formato digital o para comprarlos en formato físico los libros físicos han sido publicados por editoriales como o'reilly o no starch así que esto habla de su calidad esta editorial fue creada por el profesor Allen Downey el cual tuvo la necesidad de crear libros propios para las clases que enseñaba ya que consideraba que otras editoriales y autores no tenían como principal motivación la comprensión de los estudiantes y que lo principal para ellos era más bien la retribución económica y en esta publicación en su blog explica por qué decidió publicar sus libros de forma gratuita y cómo esto puede ayudar a que más personas se conviertan en escritores 

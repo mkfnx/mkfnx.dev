@@ -1,0 +1,15 @@
+---
+title: "Oferta De Libros De Programacion De La Editorial Manning Sobre"
+description: "oferta de libros de programacion de la editorial manning sobre"
+date: 2024-08-04
+image: "/images/posts/04.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['matemáticas', 'Python', 'R', 'CienciaDeDatos', 'DeepLearning', 'InteligenciaArtificial']
+draft: True
+slug: "oferta-de-libros-de-programacion-de-la-editorial-manning-sobre"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7269873828757507333}" data-video-id="7269873828757507333" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> oferta de libro </section> <a title="matemáticas" target="_blank" href="https://www.tiktok.com/tag/matemáticas?refer=embed">#matemáticas</a><a title="Python" target="_blank" href="https://www.tiktok.com/tag/Python?refer=embed">#Python</a><a title="R" target="_blank" href="https://www.tiktok.com/tag/R?refer=embed">#R</a><a title="CienciaDeDatos" target="_blank" href="https://www.tiktok.com/tag/CienciaDeDatos?refer=embed">#CienciaDeDatos</a><a title="DeepLearning" target="_blank" href="https://www.tiktok.com/tag/DeepLearning?refer=embed">#DeepLearning</a><a title="InteligenciaArtificial" target="_blank" href="https://www.tiktok.com/tag/InteligenciaArtificial?refer=embed">#InteligenciaArtificial</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+oferta de libros de matemáticas para programación es ofrecido por Humble Bundle un sitio del que ya he hablado antes y del que dejo el video en la descripción los libros son de la editorial Manning es una editorial de buen prestigio que puedes reconocer por este peculiar estilo que tienen en su portada cada uno de estos libros por separado  cuesta alrededor de $30 USD así que si te interesan varios de estos llevártelos por $25 USD puede ser una muy buena oferta el paquete de libros de $1 USD solo incluye un par de libros de programación de calculadoras Texas Instruments el siguiente paquete es el de 7 libros por $18 USD está algo mejor, incluye estos de Data Science con R problemas de ciencias de la computación con Python deep learning y uno de Haskell el paquete completo de 21 libros te lo puedes llevar desde $25 USD incluye temas como web inteligente deep learning, geometría programación funcional, algoritmos datos masivos, computación cuántica criptografía y varios otros más otros libros interesantes que vienen en el paquete son estos de grokking y hace referencia a que las explicaciones justo intentan ser sencillas o intuitivas y en el paquete te puedes llevar el de programación funcional y uno de inteligencia artificial quedan poco menos de 7 días para comprar esta oferta así que si te interesa apúrate a comprarla ahora 

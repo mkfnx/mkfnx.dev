@@ -1,0 +1,15 @@
+---
+title: "Tutoriales De Youtube Para El Reto 100 Dias De  Python"
+description: "tutoriales de youtube para el reto 100 dias de  python"
+date: 2024-08-04
+image: "/images/posts/01.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['Python', 'programación', 'Tutoriales', 'TutorialPython', 'Programación', 'AprenderPython', 'CursoPython', 'CursosGratis', 'GrupoDeEstudio']
+draft: True
+slug: "tutoriales-de-youtube-para-el-reto-100-dias-de-python"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7252842813358968070}" data-video-id="7252842813358968070" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> tutoriales de y </section> <a title="Python" target="_blank" href="https://www.tiktok.com/tag/Python?refer=embed">#Python</a><a title="programación" target="_blank" href="https://www.tiktok.com/tag/programación?refer=embed">#programación</a><a title="Tutoriales" target="_blank" href="https://www.tiktok.com/tag/Tutoriales?refer=embed">#Tutoriales</a><a title="TutorialPython" target="_blank" href="https://www.tiktok.com/tag/TutorialPython?refer=embed">#TutorialPython</a><a title="Programación" target="_blank" href="https://www.tiktok.com/tag/Programación?refer=embed">#Programación</a><a title="AprenderPython" target="_blank" href="https://www.tiktok.com/tag/AprenderPython?refer=embed">#AprenderPython</a><a title="CursoPython" target="_blank" href="https://www.tiktok.com/tag/CursoPython?refer=embed">#CursoPython</a><a title="CursosGratis" target="_blank" href="https://www.tiktok.com/tag/CursosGratis?refer=embed">#CursosGratis</a><a title="GrupoDeEstudio" target="_blank" href="https://www.tiktok.com/tag/GrupoDeEstudio?refer=embed">#GrupoDeEstudio</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+estoy subiendo a YouTube tutoriales y guías sobre el reto de los 100 días de Python es sobre este reto de acá de la plataforma Replit tengo un video sobre esto reciente  que puedes ver en mi perfil y bueno, en los videos te voy explicando paso a paso los conceptos que mencionan en el reto ya que las instrucciones están en inglés, yo te lo describo en español te voy mostrando los ejemplos de código y complementando algunas explicaciones cuando siento que es necesario y pues te invito a verlo si quieres participar en este reto te pueden servir para mantenerte al día como siempre toda la info está en mi perfil donde explico el reto es este video de ahí y en el link que tengo ahí en mi perfil puedes ver más aquí como primer enlace dejo mi canal e igual está un video incrustado para que lo puedas ver ahí mismo y también recuerda que abrí un grupo de Discord para dar ayuda con ese reto ahí puedes poner tus dudas y ahí mismo voy publicando los videos como los voy generando 

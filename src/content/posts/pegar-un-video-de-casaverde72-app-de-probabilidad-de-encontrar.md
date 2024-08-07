@@ -1,0 +1,15 @@
+---
+title: "Pegar Un Video De  Casaverde72 App De Probabilidad De Encontrar"
+description: "pegar un video de  casaverde72 app de probabilidad de encontrar"
+date: 2024-08-04
+image: "/images/posts/03.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['pegar', 'Parejas', 'RelacionesDePareja', 'ParejaIdeal', 'Datos', 'CienciaDeDatos', 'DesarrolloWeb', 'Python', 'Feminismo', 'Machismo']
+draft: True
+slug: "pegar-un-video-de-casaverde72-app-de-probabilidad-de-encontrar"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7251686106956172549}" data-video-id="7251686106956172549" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> pegar un video  </section> <a title="pegar" target="_blank" href="https://www.tiktok.com/tag/pegar?refer=embed">#pegar</a><a title="Parejas" target="_blank" href="https://www.tiktok.com/tag/Parejas?refer=embed">#Parejas</a><a title="RelacionesDePareja" target="_blank" href="https://www.tiktok.com/tag/RelacionesDePareja?refer=embed">#RelacionesDePareja</a><a title="ParejaIdeal" target="_blank" href="https://www.tiktok.com/tag/ParejaIdeal?refer=embed">#ParejaIdeal</a><a title="Datos" target="_blank" href="https://www.tiktok.com/tag/Datos?refer=embed">#Datos</a><a title="CienciaDeDatos" target="_blank" href="https://www.tiktok.com/tag/CienciaDeDatos?refer=embed">#CienciaDeDatos</a><a title="DesarrolloWeb" target="_blank" href="https://www.tiktok.com/tag/DesarrolloWeb?refer=embed">#DesarrolloWeb</a><a title="Python" target="_blank" href="https://www.tiktok.com/tag/Python?refer=embed">#Python</a><a title="Feminismo" target="_blank" href="https://www.tiktok.com/tag/Feminismo?refer=embed">#Feminismo</a><a title="Machismo" target="_blank" href="https://www.tiktok.com/tag/Machismo?refer=embed">#Machismo</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+para saber qué tan realistas o exigentes son estas peticiones programé esta app está inspirada en apps como estas famosas en Estados Unidos pero usando datos del INEGI para saber cómo es esto en México para usarla te vas a esta dirección que también está en el link de mi perfil e indicas aquí tus preferencias que está definido por lo que reporta el INEGI y por ejemplo para un caso como el del video que es un hombre que gana más de 12 000 pesos y de unos 20 a 40 años de edad nos indica que son unas expectativas algo exigentes ya que menos del 20% de los hombres las cumplen así que te invito a visitarla indicar tus preferencias y compartirnos qué tan exigente eres y finalmente en la otra pestaña de datos hay información técnica sobre el proyecto cómo descargar la tabla de datos que armé con las consultas al INEGI o también ver el código del proyecto en GitHub 

@@ -1,0 +1,15 @@
+---
+title: "En Interview Cake Puedes Encontrar Varios Recursos Gratuitos Para Prepararte"
+description: "en interview cake puedes encontrar varios recursos gratuitos para prepararte"
+date: 2024-08-04
+image: "/images/posts/01.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['entrevistas', 'algoritmos', 'programación', 'PreparaciónEntrevista', 'DesarrolloDeSoftware', 'EntrevistaLaboral']
+draft: True
+slug: "en-interview-cake-puedes-encontrar-varios-recursos-gratuitos-para-prepararte"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7294064024776363270}" data-video-id="7294064024776363270" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> en interview ca </section> <a title="entrevistas" target="_blank" href="https://www.tiktok.com/tag/entrevistas?refer=embed">#entrevistas</a><a title="algoritmos" target="_blank" href="https://www.tiktok.com/tag/algoritmos?refer=embed">#algoritmos</a><a title="programación" target="_blank" href="https://www.tiktok.com/tag/programación?refer=embed">#programación</a><a title="PreparaciónEntrevista" target="_blank" href="https://www.tiktok.com/tag/PreparaciónEntrevista?refer=embed">#PreparaciónEntrevista</a><a title="DesarrolloDeSoftware" target="_blank" href="https://www.tiktok.com/tag/DesarrolloDeSoftware?refer=embed">#DesarrolloDeSoftware</a><a title="EntrevistaLaboral" target="_blank" href="https://www.tiktok.com/tag/EntrevistaLaboral?refer=embed">#EntrevistaLaboral</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+esta página te ayuda a prepararte para entrevistas de programación se llama interview cake tiene varios recursos gratuitos que valen la pena uno de ellos es el de este popup que es un problema gratuito semanalmente que se envía por correo electrónico el otro recurso es este curso gratuito de 7 días además tienen toda esta otra sección de tips para entrevistas en la página principal incluyen un problema de muestra se incluye la descripción del problema una descripción de lo que se pide como solución y una descripción de las entradas para continuar con el problema tienes un par de opciones que irán revelando la solución se irán mostrando diferentes métodos de solución del problema como aquí este de fuerza bruta y luego se estarán mostrando soluciones más optimizadas en el problema de prueba la solución es bastante amplia y detallada al final se da un resumen que incluye la complejidad del problema y los métodos usados para la solución por supuesto también se incluye un editor de código online para que puedas probar si tu solución pasa a todos los casos de prueba requeridos así se ven los problemas que llegan por correo están abiertos durante dos semanas una semana para que tú puedas revisarlo y solucionarlo y una semana más en que la solución queda abierta a todo el público para que puedas revisarla 

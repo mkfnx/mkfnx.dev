@@ -1,0 +1,15 @@
+---
+title: "Devinai Es El Mas Reciente Intento De Crear Una  Inteligenciaartificial"
+description: "devinai es el mas reciente intento de crear una  inteligenciaartificial"
+date: 2024-08-04
+image: "/images/posts/03.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['DevinAI', 'InteligenciaArtificial', 'DesarrolloDeSoftware', 'IA', 'Meta', 'Google', 'Microsoft']
+draft: True
+slug: "devinai-es-el-mas-reciente-intento-de-crear-una-inteligenciaartificial"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7346054664552467717}" data-video-id="7346054664552467717" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> devinai es el m </section> <a title="DevinAI" target="_blank" href="https://www.tiktok.com/tag/DevinAI?refer=embed">#DevinAI</a><a title="InteligenciaArtificial" target="_blank" href="https://www.tiktok.com/tag/InteligenciaArtificial?refer=embed">#InteligenciaArtificial</a><a title="DesarrolloDeSoftware" target="_blank" href="https://www.tiktok.com/tag/DesarrolloDeSoftware?refer=embed">#DesarrolloDeSoftware</a><a title="IA" target="_blank" href="https://www.tiktok.com/tag/IA?refer=embed">#IA</a><a title="Meta" target="_blank" href="https://www.tiktok.com/tag/Meta?refer=embed">#Meta</a><a title="Google" target="_blank" href="https://www.tiktok.com/tag/Google?refer=embed">#Google</a><a title="Microsoft" target="_blank" href="https://www.tiktok.com/tag/Microsoft?refer=embed">#Microsoft</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+Few people believe that AI will replace software engineers,  but that doesn't stop companies from doing everything possible to achieve it. This project has already raised 21 million dollars in its first round of investment  and its technical team is made up of top developers,  their developers are among the top ranked on competitive programming platforms.  At 14,  its founder was winning math competitions with incredible performance. This project was announced by Cognition company as the  first artificial intelligence software engineer. Unlike tools like Copilot,  Devin has been created with the idea of completing full programming projects  among its capabilities are learning to use technologies,  deploying apps on platforms like Netlify,  finding and resolving bugs,  and even completing projects for freelance work platforms. But like all AI tools,  it is still in its early stages and so far its success rate  in solving tasks is just over 14%,  which,  although it seems low,  is almost three times more than the most known AI models. And of course,  they are not the only companies like Meta and Google are exploring the  use of AI to automate code reviews,  create tests,  and resolve bugs. Tell me in comments what you think about this and how  you think AI will affect software development jobs? 

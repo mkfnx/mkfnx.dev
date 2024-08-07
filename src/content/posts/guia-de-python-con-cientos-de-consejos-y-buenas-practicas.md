@@ -1,0 +1,15 @@
+---
+title: "Guia De  Python Con Cientos De Consejos Y Buenas Practicas"
+description: "guia de  python con cientos de consejos y buenas practicas"
+date: 2024-08-04
+image: "/images/posts/07.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['python', 'programación', 'programacionpython', 'aprendeprogramacion', 'librosgratuitos']
+draft: True
+slug: "guia-de-python-con-cientos-de-consejos-y-buenas-practicas"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7169697472271387909}" data-video-id="7169697472271387909" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> guia de  python </section> <a title="python" target="_blank" href="https://www.tiktok.com/tag/python?refer=embed">#python</a><a title="programación" target="_blank" href="https://www.tiktok.com/tag/programación?refer=embed">#programación</a><a title="programacionpython" target="_blank" href="https://www.tiktok.com/tag/programacionpython?refer=embed">#programacionpython</a><a title="aprendeprogramacion" target="_blank" href="https://www.tiktok.com/tag/aprendeprogramacion?refer=embed">#aprendeprogramacion</a><a title="librosgratuitos" target="_blank" href="https://www.tiktok.com/tag/librosgratuitos?refer=embed">#librosgratuitos</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+checa esta guía que contiene cientos de consejos y mejores prácticas para desarrollo en python tiene muy buenos consejos ya que incluso fue publicada como un libro de reilly el nombre de la guía está inspirado en estas famosas novelas de ciencia ficción la guía se divide en varias secciones comienza con instalación y configuración del ambiente de pay tiene guías para instalarlo correctamente en cada sistema operativo y recomendaciones sobre tu ambiente de trabajo como editores y ambientes virtual la siguiente sección es sobre cómo escribir buen código aquí se cubre estructura del proyecto estilo de y esta otra parte que también va a ayudar mucho a que escribas buen código que es leer buen código aquí se recomiendan proyectos de código abierto que son grandes ejemplos de buen código y que siguen las buenas prácticas por ejemplo flash que es un framework muy famoso para crear aplicaciones web esta otra parte de la guía escenario gay también está increíble aquí se dan consejos específicos para cada tipo de proyecto o aplicación que podamos estar desarrollando y vienen muchísimas por ejemplo aplicaciones web aplicaciones de línea de comandos scrapping htm aplicaciones con interfaz gráfica aplicaciones con base de datos aplicaciones de comunicación en también aplicaciones científicas manipulación de imágenes criptografía y varias otras por último está la sección de notas en donde se incluyen enlaces a comunidades material de aprendizaje e incluso boletines de noticias para estar al día con todo lo que ocurre en el mundo de paito la versión web es completamente abierta y gratuita y la puedes encontrar en python guy punto oro también está abierta a correcciones y contribuciones en este repo de hip hop 

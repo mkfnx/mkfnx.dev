@@ -1,0 +1,15 @@
+---
+title: "Promocion De 50  De  Descuento En Un Mes De Membresia"
+description: "promocion de 50  de  descuento en un mes de membresia"
+date: 2024-08-04
+image: "/images/posts/05.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['promoción', 'descuento', 'coursera', 'cursos', 'universidades', 'Google', 'Microsoft', 'IBM']
+draft: True
+slug: "promocion-de-50-de-descuento-en-un-mes-de-membresia"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7398298157118934278}" data-video-id="7398298157118934278" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> promocion de 50 </section> <a title="promoción" target="_blank" href="https://www.tiktok.com/tag/promoción?refer=embed">#promoción</a><a title="descuento" target="_blank" href="https://www.tiktok.com/tag/descuento?refer=embed">#descuento</a><a title="coursera" target="_blank" href="https://www.tiktok.com/tag/coursera?refer=embed">#coursera</a><a title="cursos" target="_blank" href="https://www.tiktok.com/tag/cursos?refer=embed">#cursos</a><a title="universidades" target="_blank" href="https://www.tiktok.com/tag/universidades?refer=embed">#universidades</a><a title="Google" target="_blank" href="https://www.tiktok.com/tag/Google?refer=embed">#Google</a><a title="Microsoft" target="_blank" href="https://www.tiktok.com/tag/Microsoft?refer=embed">#Microsoft</a><a title="IBM" target="_blank" href="https://www.tiktok.com/tag/IBM?refer=embed">#IBM</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+promoción de 50% de descuento en el primer mes de coursera plus esta es una membresía que te permite acceder a la mayoría de los cursos de forma ilimitada es decir, todos los cursos proyectos y certificados que puedas completar durante el tiempo de la membresía te incluyen más de 7 000 programas de aprendizaje de universidades de gran prestigio alrededor del mundo y de empresas como IBM, Google, Microsoft y otras esta oferta es válida hasta 9 de agosto y al aplicarla a tu primer mes costaría poco menos de $30 pues si decides continuar la membresía costaría $59 cada mes algunos de los cursos destacados incluidos en la membresía son conceptos esenciales de inteligencia artificial de Google Python para todos de la universidad de Míchigan especialización de prompt Engineering de la universidad de Vanderbilt certificado profesional de ciencia de datos de IBM administración de proyectos de Google curso de SQL de la universidad de colorado certificado de analista de ciberseguridad de Microsoft y muchos otros más también se incluye una función de búsqueda para que puedas saber fácilmente si hay cursos que te interesan este es el enlace a la página de la oferta el cual también dejo en la página de mi perfil 

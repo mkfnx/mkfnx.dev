@@ -1,0 +1,15 @@
+---
+title: "Pregunta De Preparacion Para Entrevista  Sql De Snapchat  Analisisdedatos  Cienciadedatos"
+description: "pregunta de preparacion para entrevista  sql de snapchat  analisisdedatos  cienciadedatos"
+date: 2024-08-04
+image: "/images/posts/06.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['SQL', 'AnálisisDeDatos', 'CienciaDeDatos', 'PreparaciónEntrevista', 'EntrevistaTécnica', 'PreguntasDeEntrevista']
+draft: True
+slug: "pregunta-de-preparacion-para-entrevista-sql-de-snapchat-analisisdedatos-cienciadedatos"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7333356755222580486}" data-video-id="7333356755222580486" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> pregunta de pre </section> <a title="SQL" target="_blank" href="https://www.tiktok.com/tag/SQL?refer=embed">#SQL</a><a title="AnálisisDeDatos" target="_blank" href="https://www.tiktok.com/tag/AnálisisDeDatos?refer=embed">#AnálisisDeDatos</a><a title="CienciaDeDatos" target="_blank" href="https://www.tiktok.com/tag/CienciaDeDatos?refer=embed">#CienciaDeDatos</a><a title="PreparaciónEntrevista" target="_blank" href="https://www.tiktok.com/tag/PreparaciónEntrevista?refer=embed">#PreparaciónEntrevista</a><a title="EntrevistaTécnica" target="_blank" href="https://www.tiktok.com/tag/EntrevistaTécnica?refer=embed">#EntrevistaTécnica</a><a title="PreguntasDeEntrevista" target="_blank" href="https://www.tiktok.com/tag/PreguntasDeEntrevista?refer=embed">#PreguntasDeEntrevista</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+SQL interview preparation question.  Snapchat wants to get the percentages of  time users spend opening and creating Snaps.  We have a table with information on user activities and  another table indicating the age range to which each user belongs.  We need to obtain the percentages of time that  users in each age range spend on these activities.  We start by executing a query to know all types of activities available,  we see that there are three activities,  the next query will be a JOIN between the two table,  we will select only the information that is relevant and  we will filter the types of activities that interest us.  Then we use a function to get the sum of the time for each age range,  but that sum will be the sum of the time for all activities.  As we also want the sum of time for specific activities,  we use the filter function to indicate this.  We then divide the time of the specific activity by  the time of the total activity to obtain the percentage,  but we still need to adjust to the format required in the answer,  that is two integers and two decimal numbers.  To obtain this value we use the round function of the value  multiplied by 100 and specifying that we want two decimal places,  this would be the final result and we check that it is an accepted answer.  In the link to my profile you can find the  page where we are solving these exercises. 

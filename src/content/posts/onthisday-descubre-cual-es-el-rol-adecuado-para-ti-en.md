@@ -1,0 +1,15 @@
+---
+title: "Onthisday Descubre Cual Es El Rol Adecuado Para Ti En"
+description: "onthisday descubre cual es el rol adecuado para ti en"
+date: 2024-08-04
+image: "/images/posts/05.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['onthisday', 'DesarrolloDeSoftware', 'codecademy', 'Programación', 'AnálisisDeDatos', 'ProductManager', 'DesarrolloWeb']
+draft: True
+slug: "onthisday-descubre-cual-es-el-rol-adecuado-para-ti-en"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7338123650131971333}" data-video-id="7338123650131971333" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> onthisday descu </section> <a title="onthisday" target="_blank" href="https://www.tiktok.com/tag/onthisday?refer=embed">#onthisday</a><a title="DesarrolloDeSoftware" target="_blank" href="https://www.tiktok.com/tag/DesarrolloDeSoftware?refer=embed">#DesarrolloDeSoftware</a><a title="codecademy" target="_blank" href="https://www.tiktok.com/tag/codecademy?refer=embed">#codecademy</a><a title="Programación" target="_blank" href="https://www.tiktok.com/tag/Programación?refer=embed">#Programación</a><a title="AnálisisDeDatos" target="_blank" href="https://www.tiktok.com/tag/AnálisisDeDatos?refer=embed">#AnálisisDeDatos</a><a title="ProductManager" target="_blank" href="https://www.tiktok.com/tag/ProductManager?refer=embed">#ProductManager</a><a title="DesarrolloWeb" target="_blank" href="https://www.tiktok.com/tag/DesarrolloWeb?refer=embed">#DesarrolloWeb</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+y si crees que te dio un resultado adecuado comenta tus resultados del quiz científico de datos y diseñador estos otros perfiles asocian a project manager con el dot conector y el question asker en medio y menos a un user advocate mis respuestas se ajustan mucho más a un problem solver en este ejemplo de acuerdo a lo que respondiste en tu quiz se muestran en el orden que más se ajusta también se muestra información sobre las demás opciones después de la información sobre tu resultado principal y el porqué podrías destacar en esta carrera lo que hacen los ingenieros dentro de codecademy también muestra más información como oportunidades de carrera de la personalidad de este perfil y en la página podrás ver una descripción  lo cual fue correcto porque es a lo que me dedico actualmente que está asociado a los ingenieros en mi caso obtuve el de problem solver  con el perfil que más se ajusta a tus respuestas al terminar el quiz se muestra una página de resultados sobre tus intereses hobbies y preferencias es un quiz bastante corto de solo 8 preguntas o scrolleando dentro de la página principal de codecademy y puedes verlo en el link que pongo arriba sobre cuál es tu personalidad en la programación es este quiz de codecademy este quiz puede ayudarte a descubrirlo si no sabes a qué área de desarrollo de software podrías dedicarte 

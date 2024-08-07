@@ -1,0 +1,15 @@
+---
+title: "De App Python De Consola A Una App Web Que"
+description: "de app python de consola a una app web que"
+date: 2024-08-04
+image: "/images/posts/05.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['Programación', 'ProgramaciónPython', 'DesarrolloWeb', 'AprendeProgramación', 'TutorialProgramación', 'AprendeEnTikTok']
+draft: True
+slug: "de-app-python-de-consola-a-una-app-web-que"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7263200698794724614}" data-video-id="7263200698794724614" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> de app python d </section> <a title="Programación" target="_blank" href="https://www.tiktok.com/tag/Programación?refer=embed">#Programación</a><a title="ProgramaciónPython" target="_blank" href="https://www.tiktok.com/tag/ProgramaciónPython?refer=embed">#ProgramaciónPython</a><a title="DesarrolloWeb" target="_blank" href="https://www.tiktok.com/tag/DesarrolloWeb?refer=embed">#DesarrolloWeb</a><a title="AprendeProgramación" target="_blank" href="https://www.tiktok.com/tag/AprendeProgramación?refer=embed">#AprendeProgramación</a><a title="TutorialProgramación" target="_blank" href="https://www.tiktok.com/tag/TutorialProgramación?refer=embed">#TutorialProgramación</a><a title="AprendeEnTikTok" target="_blank" href="https://www.tiktok.com/tag/AprendeEnTikTok?refer=embed">#AprendeEnTikTok</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+convertí esta aplicación de consola de Python a una aplicación web como esta sorprendentemente la aplicación web requirió menos líneas de código 35 líneas contra 47 la app es sencilla es una calculadora para dividir una cuenta por pagar consiste en solicitar los datos usando la función input realizar conversiones de tipos de datos y validar que el usuario haya ingresado un formato válido realizar las operaciones aritméticas  para el cálculo de la propina y la cuenta y finalmente mostrar el resultado para la aplicación web estoy usando Streamlit lo cual me permite agregar estos componentes gráficos de forma muy sencilla se agregan llamando a estas funciones  de la biblioteca Streamlit cada una del tipo de elemento que queremos agregar como una entrada de número y un botón de radio además especificamos algunos parámetros como el texto a mostrar y algunos elementos de validación es esta validación automática de datos lo que hace que la aplicación web tenga menos líneas  además tenemos todas las ventajas de una aplicación web como acceder a ella desde cualquier navegador y tener una presentación mucho más agradable y sencilla de usar para saber más sobre Streamlit visita streamlit.io también puedes ver los otros videos que tengo sobre Streamlit y que dejo enlazados en la descripción 

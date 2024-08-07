@@ -1,0 +1,15 @@
+---
+title: "Pregunta De Practica Para Entrevista De  Algoritmos   Determinar Si"
+description: "pregunta de practica para entrevista de  algoritmos   determinar si"
+date: 2024-08-04
+image: "/images/posts/01.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['algoritmos', 'Programación', 'Programador', 'Python', 'AprendeEnTikTok', 'DevTok', 'TechTok']
+draft: True
+slug: "pregunta-de-practica-para-entrevista-de-algoritmos--determinar-si"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7343000501270777093}" data-video-id="7343000501270777093" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> pregunta de pra </section> <a title="algoritmos" target="_blank" href="https://www.tiktok.com/tag/algoritmos?refer=embed">#algoritmos</a><a title="Programación" target="_blank" href="https://www.tiktok.com/tag/Programación?refer=embed">#Programación</a><a title="Programador" target="_blank" href="https://www.tiktok.com/tag/Programador?refer=embed">#Programador</a><a title="Python" target="_blank" href="https://www.tiktok.com/tag/Python?refer=embed">#Python</a><a title="AprendeEnTikTok" target="_blank" href="https://www.tiktok.com/tag/AprendeEnTikTok?refer=embed">#AprendeEnTikTok</a><a title="DevTok" target="_blank" href="https://www.tiktok.com/tag/DevTok?refer=embed">#DevTok</a><a title="TechTok" target="_blank" href="https://www.tiktok.com/tag/TechTok?refer=embed">#TechTok</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+pregunta de preparación para entrevista de algoritmos este es el problema gratuito de la semana de interview cake un sitio del que ya hablé antes dejo video enlazado en la descripción o comentarios el problema es que dada una palabra determinar si existe una permutación que sea palíndromo por ejemplo aquí Civic claramente es un palíndromo pero si nos dieran esta otra palabra determinaríamos que hay una permutación que es palíndromo la cual es Civic un ejemplo que no sería palíndromo sería civil o cualquiera de sus permutaciones como aquí una forma obvia de resolver esto es por fuerza bruta esto sería generar todas las permutaciones de una palabra y verificar si alguna de ellas es palíndromo pero eso tiene una complejidad algorítmica de O(n! * n) lo cual es bastante alto así que hay que buscar otra forma en lugar de generar todas las permutaciones sería más conveniente  intentar directamente construir un palíndromo para ello vamos a construir la palabra de afuera hacia adentro colocando los mismos caracteres en los extremos si logramos continuar este procedimiento  hasta acabarnos las letras entonces la palabra es palíndromo aquí podríamos intentar programar este procedimiento aunque si continuamos analizando vamos a descubrir que hay algo más sencillo de implementar esta sería la solución comenta si quieres que le explique en la parte dos 

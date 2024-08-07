@@ -1,0 +1,15 @@
+---
+title: "Este Post Cuenta Como Para Lograr  Monetizar Una  Web El"
+description: "este post cuenta como para lograr  monetizar una  web el"
+date: 2024-08-04
+image: "/images/posts/04.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['monetizar', 'web', 'Google']
+draft: True
+slug: "este-post-cuenta-como-para-lograr-monetizar-una-web-el"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7363835352877944071}" data-video-id="7363835352877944071" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> este post cuent </section> <a title="monetizar" target="_blank" href="https://www.tiktok.com/tag/monetizar?refer=embed">#monetizar</a><a title="web" target="_blank" href="https://www.tiktok.com/tag/web?refer=embed">#web</a><a title="Google" target="_blank" href="https://www.tiktok.com/tag/Google?refer=embed">#Google</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+Google me hizo arruinar un sitio que funcionaba perfectamente bien en este post del blog The Luddite cuentan cómo intentar monetizar una web útil sobre política llevó a prácticamente arruinarla la web contenía una herramienta para calcular la composición del Congreso de Estados Unidos de acuerdo a un censo esta web no necesita más que una tabla para mostrar los resultados de los cálculos resultaba útil para muchas personas ya que tenía una cantidad constante de visitas lo cual llevó a su autor a pensar que podría monetizarla sin embargo, Google rechazó su solicitud  para mostrar anuncios en su web pues resulta que Google suele favorecer la cantidad de contenido sobre la calidad rechaza webs del estilo de esta herramienta pero aprueba webs con múltiples páginas  y actualizaciones recurrentes como blogs, sitios de recetas de cocina o similares los cuales también a causa de seguir las reglas de monetización son conocidos por estar repletos de contenido de relleno y de poco valor fue aquí que, en parte de modo irónico y como experimento el autor decidió agregar contenido únicamente para cumplir los requisitos de Google y la forma más sencilla de hacer esto y la que cada vez más gente adopta es usar contenido generado por la inteligencia oficial así que el autor agregó recetas de cocina poemas, acertijos y post de blogs aunque no tuviera mucho sentido tenerlos  y en realidad fueran innecesarios fue hasta después de agregar todo este contenido de relleno que el sitio fue aprobado en este caso el autor expone y reconoce  los problemas que esto puede ocasionar sin embargo, muchos otros se aprovechan de esto sin preocuparse por las consecuencias lo cual, tristemente, está llevando a internet a estar cada vez más saturada de contenido basura cuéntame en comentarios si algo así te ha pasado o cómo haces tú para encontrar buen contenido cuando lo necesitas 

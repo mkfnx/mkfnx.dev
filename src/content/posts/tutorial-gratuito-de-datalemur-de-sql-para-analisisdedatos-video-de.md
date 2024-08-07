@@ -1,0 +1,15 @@
+---
+title: "Tutorial Gratuito De Datalemur De  Sql Para  Analisisdedatos Video De"
+description: "tutorial gratuito de datalemur de  sql para  analisisdedatos video de"
+date: 2024-08-04
+image: "/images/posts/02.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['SQL', 'AnálisisDeDatos', 'CursosOnline', 'CursosGratis', 'BasesDeDatos']
+draft: True
+slug: "tutorial-gratuito-de-datalemur-de-sql-para-analisisdedatos-video-de"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7279175388209646853}" data-video-id="7279175388209646853" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> tutorial gratui </section> <a title="SQL" target="_blank" href="https://www.tiktok.com/tag/SQL?refer=embed">#SQL</a><a title="AnálisisDeDatos" target="_blank" href="https://www.tiktok.com/tag/AnálisisDeDatos?refer=embed">#AnálisisDeDatos</a><a title="CursosOnline" target="_blank" href="https://www.tiktok.com/tag/CursosOnline?refer=embed">#CursosOnline</a><a title="CursosGratis" target="_blank" href="https://www.tiktok.com/tag/CursosGratis?refer=embed">#CursosGratis</a><a title="BasesDeDatos" target="_blank" href="https://www.tiktok.com/tag/BasesDeDatos?refer=embed">#BasesDeDatos</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+nuevo tutorial de SQL para análisis de datos de parte de data lemur la web que contiene cientos de preguntas  para preparación de entrevistas SQL ya hice un video sobre esta página puedes revisar esta playlist que está en mi perfil en la sección de SQL básico se cubre el SELECT con algunos filtros sencillos como WHERE, BETWEEN, IN y LIKE y las instrucciones para armar condiciones complejas como AND, OR y NOT en la parte de SQL e intermedio se cubren instrucciones y funciones que permiten crear consultas algo más avanzadas por ejemplo las funciones agregadas como SUM, AVG y COUNT instrucciones como GROUP BY y HAVING otras funciones para realizar cálculos y manipular datos como aritmética, funciones matemáticas, división y manejo de nulos algo super importante que son los JOIN y más funciones para consultas complejas como el CASE y funciones de fecha la sección de SQL avanzado comienza con CTEs y subquerys lo cual permite dividir consultas grandes en unas más pequeñas que sean más manejables y fáciles de entender después se ven los fundamentos de WINDOW FUNCTIONS y algunas funciones relacionadas como RANK o LEAD y LAG también algunos temas para que comprendas cómo escribir consulta  más limpias y eficientes al final se incluye un caso de estudio sobre la aplicación Instacart incluyen la solución de cómo es que ellos resuelven este caso de estudio lo encuentras en esta URL o como siempre dejo el link en la página de mi perfil 

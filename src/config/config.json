@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Mkfnx Dev | Blog de Programación, Python, Ciencia de Datos",
+    "base_url": "https://mkfnx.dev",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Bookworm Light"
+  },
+
+  "settings": {
+    "pagination": 15,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Miguel Lopez @mkfnx",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Mkfnx Dev | Blog de Programación, Python, Ciencia de Datos"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2024 @mkfnx"
+  },
+
+  "contactinfo": {
+    "address": "",
+    "email": "contacto@mkfnx.dev",
+    "phone": ""
+  }
+}

@@ -1,0 +1,15 @@
+---
+title: "Oferta De  Blackfriday En  Cursos Ilimitados De  Coursera  Aprendeprogramacion"
+description: "oferta de  blackfriday en  cursos ilimitados de  coursera  aprendeprogramacion"
+date: 2024-08-04
+image: "/images/posts/05.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['Oferta', 'BlackFriday', 'cursos', 'Coursera', 'aprendeprogramacion']
+draft: True
+slug: "oferta-de-blackfriday-en-cursos-ilimitados-de-coursera-aprendeprogramacion"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7170096818926210309}" data-video-id="7170096818926210309" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> oferta de  blac </section> <a title="Oferta" target="_blank" href="https://www.tiktok.com/tag/Oferta?refer=embed">#Oferta</a><a title="BlackFriday" target="_blank" href="https://www.tiktok.com/tag/BlackFriday?refer=embed">#BlackFriday</a><a title="cursos" target="_blank" href="https://www.tiktok.com/tag/cursos?refer=embed">#cursos</a><a title="Coursera" target="_blank" href="https://www.tiktok.com/tag/Coursera?refer=embed">#Coursera</a><a title="aprendeprogramacion" target="_blank" href="https://www.tiktok.com/tag/aprendeprogramacion?refer=embed">#aprendeprogramacion</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+oferta de black friday en crucera de $100 de descuento para que adquiera su membresía de cursos y certificados ilimitados la oferta va a ser válida hasta el 28 de noviembre y aquí te dejo el enlace o en los comentarios o link de mi perfil esta membresía te da acceso a más de 7000 cursos de universidades de gran prestigio como la de nueva york de michigan johns hopkins la unam etcétera y también a los certificados profesionales de empresas como google o meta para saber si un curso o certificado que te interesa forma parte de esta membresía solo tienes que ir a la página del curso y aquí en enrollment options debes de scrollear y verificar que esté la opción de cursar appolius esta membresía te conviene y te hará ahorrar dinero si completas más de una certificación en el año o si quieres completarlas a un ritmo más flexible ya aplicando el descuento de black friday el programa quedaría en unos $300 al año o unos 25 por mes esto es un ahorro porque de los cursos cuestan más o -$50 al mes y duran un mínimo de unos 5 o 6 meses pero si por ahora no pudieras pagarlo o si consideras que no tomarías suficientes cursos para aprovecharlo recuerda que crucera siempre tiene disponible una opción de solicitar ayuda financiera que te puede ayudar al tomar el curso con descuento o gratis ve un post en mi blog con todos los enlaces que necesitas para evaluar si esta oferta te conviene aquí te dejo el enlace directo al post o igualmente puedes encontrar el link a mi blog en mi perfil 

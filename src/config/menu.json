@@ -1,0 +1,22 @@
+{
+  "main": [
+    {
+      "name": "Inicio",
+      "url": "/"
+    },
+    {
+      "name": "Autor",
+      "url": "/authors"
+    },
+    {
+      "name": "Temas",
+      "url": "/tags"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Política de Privacidad",
+      "url": "/privacy-policy"
+    }
+  ]
+}

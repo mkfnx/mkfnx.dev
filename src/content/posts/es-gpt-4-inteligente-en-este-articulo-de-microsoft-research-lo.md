@@ -1,0 +1,15 @@
+---
+title: "Es Gpt 4 Inteligente  En Este Articulo De Microsoft Research Lo"
+description: "es gpt 4 inteligente  en este articulo de microsoft research lo"
+date: 2024-08-04
+image: "/images/posts/07.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['InteligenciaArtificial', 'GPT4', 'ChatGPT', 'Microsoft', 'MicrosoftResearch', 'PongamosloAPrueba']
+draft: True
+slug: "es-gpt-4-inteligente-en-este-articulo-de-microsoft-research-lo"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7225800514376649990}" data-video-id="7225800514376649990" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> es gpt 4 inteli </section> <a title="InteligenciaArtificial" target="_blank" href="https://www.tiktok.com/tag/InteligenciaArtificial?refer=embed">#InteligenciaArtificial</a><a title="GPT4" target="_blank" href="https://www.tiktok.com/tag/GPT4?refer=embed">#GPT4</a><a title="ChatGPT" target="_blank" href="https://www.tiktok.com/tag/ChatGPT?refer=embed">#ChatGPT</a><a title="Microsoft" target="_blank" href="https://www.tiktok.com/tag/Microsoft?refer=embed">#Microsoft</a><a title="MicrosoftResearch" target="_blank" href="https://www.tiktok.com/tag/MicrosoftResearch?refer=embed">#MicrosoftResearch</a><a title="PongamosloAPrueba" target="_blank" href="https://www.tiktok.com/tag/PongamosloAPrueba?refer=embed">#PongamosloAPrueba</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+¿Por qué Microsoft dice que GPT-4 tiene  destellos de inteligencia artificial general? este tipo de inteligencia se refiere a aquella que podría replicar cualquier actividad intelectual de un humano en este artículo Microsoft explora si GPT-4 cumple con esa definición para estudiar esto comentan que hicieron pruebas de estilo psicológico y lo que intentan probar es que el modelo entiende ciertos conceptos y que va más allá de la memorización y la repetición de patrones el ejemplo de aquí es crear un unicornio con un lenguaje que permite crear dibujos (tikz) ya que como sabemos GPT solo genera texto el dibujo fue mejorando en varias etapas del entrenamiento de GPT-4 pero también se degradó cuando se incluyeron las limitaciones de seguridad del modelo la prueba usada para verificar la comprensión del concepto fue que se eliminó el cuerno del unicornio y luego se pidió a GPT-4 que lo volviera a añadir hicieron muchas otras pruebas de varias áreas como generar poemas imágenes 3D, código y todo lo que ya sabemos pero lo importante es que en cada prueba se continuaba cuestionando al modelo para intentar averiguar si en realidad estaba comprendiendo o formando conceptos concluyen que el modelo cumple con 4 de 6 capacidades de una definición estándar de inteligencia ¿Piensas que se puede decir que el modelo tiene cierta inteligencia? 

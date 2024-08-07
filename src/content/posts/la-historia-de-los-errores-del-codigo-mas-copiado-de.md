@@ -1,0 +1,15 @@
+---
+title: "La Historia De Los Errores Del Codigo Mas Copiado De"
+description: "la historia de los errores del codigo mas copiado de"
+date: 2024-08-04
+image: "/images/posts/05.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['StackOverflow', 'programación', 'desarrollodesoftware', 'debugging', 'código', 'java']
+draft: True
+slug: "la-historia-de-los-errores-del-codigo-mas-copiado-de"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7288808006165220613}" data-video-id="7288808006165220613" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> la historia de  </section> <a title="StackOverflow" target="_blank" href="https://www.tiktok.com/tag/StackOverflow?refer=embed">#StackOverflow</a><a title="programación" target="_blank" href="https://www.tiktok.com/tag/programación?refer=embed">#programación</a><a title="desarrollodesoftware" target="_blank" href="https://www.tiktok.com/tag/desarrollodesoftware?refer=embed">#desarrollodesoftware</a><a title="debugging" target="_blank" href="https://www.tiktok.com/tag/debugging?refer=embed">#debugging</a><a title="código" target="_blank" href="https://www.tiktok.com/tag/código?refer=embed">#código</a><a title="java" target="_blank" href="https://www.tiktok.com/tag/java?refer=embed">#java</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+el código más copiado de stack overflow contenía errores así lo cuenta el autor del código Andreas Lunblad en un post de 2019 de su blog programming guide en 2 010 estaba navegando en StackOverflow cuando vio una pregunta en la que consideraba que podía dar una respuesta mejor a la aceptada esta pregunta era sobre convertir una cantidad de bytes a un formato legible la respuesta aceptada era sencilla pero a Andreas le pareció que usar una solución algebraica basada en logaritmos podría ser más elegante así que escribió esta respuesta Andreas no sabía que esto se había convertido en el trozo de código más copiado hasta que fue consultado para resolver una disputa en la que se mencionaba este estudio que analizaba si la licencia de Creative Commons de stack Overflow era respetada cuando se copiaba el código la respuesta es que la mayoría de las personas no la respetan el error era básicamente uno de redondeo después de varios ajustes llegó a una versión final como esta pero menciona que se pierde el objetivo original de tener un código más simple y nos deja estas lecciones finales el código StackOverflow puede contener errores aunque tenga miles de votos no debes olvidarte de probar todos los casos extremos especialmente del código que copas de internet las operaciones de números decimales son difíciles y debes respetar las licencias de código e incluir la atribución correspondiente 

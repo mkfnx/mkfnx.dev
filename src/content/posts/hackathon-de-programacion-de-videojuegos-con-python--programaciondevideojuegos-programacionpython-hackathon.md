@@ -1,0 +1,15 @@
+---
+title: "Hackathon De Programacion De Videojuegos Con Python   Programaciondevideojuegos  Programacionpython  Hackathon"
+description: "hackathon de programacion de videojuegos con python   programaciondevideojuegos  programacionpython  hackathon"
+date: 2024-08-04
+image: "/images/posts/03.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['ProgramacionDeVideojuegos', 'ProgramacionPython', 'Hackathon', 'PyGame', 'Microsoft']
+draft: True
+slug: "hackathon-de-programacion-de-videojuegos-con-python--programaciondevideojuegos-programacionpython-hackathon"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7216850468918578437}" data-video-id="7216850468918578437" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> hackathon de pr </section> <a title="ProgramacionDeVideojuegos" target="_blank" href="https://www.tiktok.com/tag/ProgramacionDeVideojuegos?refer=embed">#ProgramacionDeVideojuegos</a><a title="ProgramacionPython" target="_blank" href="https://www.tiktok.com/tag/ProgramacionPython?refer=embed">#ProgramacionPython</a><a title="Hackathon" target="_blank" href="https://www.tiktok.com/tag/Hackathon?refer=embed">#Hackathon</a><a title="PyGame" target="_blank" href="https://www.tiktok.com/tag/PyGame?refer=embed">#PyGame</a><a title="Microsoft" target="_blank" href="https://www.tiktok.com/tag/Microsoft?refer=embed">#Microsoft</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+participa en este Hackathon de programación de videojuegos con Python organizado por Microsoft y Devpost se van a repartir $12,700 dólares en premios los premios mayores son de $2,500 en las siguientes categorías One of a Kind o el más único u original Pure Nostalgia o el más nostálgico o Headache Fuel para el más frustrante pero divertido además de 6 premios de $700 para las menciones honoríficas y 20 premios de $50 para los primeros en enviar su juego tienes hasta 17 de abril para enviar tu juego y hasta el momento hay inscritos 408 participantes te inscribes presionando el botón Join Hackathon de la página que dejo aquí y lo que tienes que enviar para participar va a ser una URL con tu juego funcionando o el repositorio de GitHub con el código del juego liberado bajo una de estas licencias además de un video público en alguna plataforma como YouTube que demuestre el juego funcionando en la página hay un link a este formulario para que te compartan algunos recursos que te ayudan a programar tu juego pero básicamente es un enlace a la documentación de PyGame y otro a la página de Open Game Art en donde como el nombre lo dice puedes encontrar arte para tu juego como el nombre del Hackathon lo indica el juego debe estar desarrollado en Python y PyGame es el framework de Python más popular para desarrollar este tipo de aplicaciones en PyGame.org encuentras toda la información sobre este Framework por ejemplo cómo instalarlo cómo comenzar a usarlo, tutoriales o enlaces a libros videos y otros materiales 

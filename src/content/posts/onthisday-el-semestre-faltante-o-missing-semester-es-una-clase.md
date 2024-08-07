@@ -1,0 +1,15 @@
+---
+title: "Onthisday El Semestre Faltante  O Missing Semester  Es Una Clase"
+description: "onthisday el semestre faltante  o missing semester  es una clase"
+date: 2024-08-04
+image: "/images/posts/05.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['onthisday', 'IngenieroDeSoftware', 'Programación', 'Programadores', 'CursosOnline', 'CursosGratis']
+draft: True
+slug: "onthisday-el-semestre-faltante-o-missing-semester-es-una-clase"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7340756568545299717}" data-video-id="7340756568545299717" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> onthisday el se </section> <a title="onthisday" target="_blank" href="https://www.tiktok.com/tag/onthisday?refer=embed">#onthisday</a><a title="IngenieroDeSoftware" target="_blank" href="https://www.tiktok.com/tag/IngenieroDeSoftware?refer=embed">#IngenieroDeSoftware</a><a title="Programación" target="_blank" href="https://www.tiktok.com/tag/Programación?refer=embed">#Programación</a><a title="Programadores" target="_blank" href="https://www.tiktok.com/tag/Programadores?refer=embed">#Programadores</a><a title="CursosOnline" target="_blank" href="https://www.tiktok.com/tag/CursosOnline?refer=embed">#CursosOnline</a><a title="CursosGratis" target="_blank" href="https://www.tiktok.com/tag/CursosGratis?refer=embed">#CursosGratis</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+si cometes algún error también otros temas muy útiles como depuración y seguridad accede al curso en esta URL o en general, buscando en internet "missing semester" una descripción breve de cada sección del curso para eliminar rápidamente todas las etiquetas de este documento en la sección de "lectures" contiene el video, los conceptos que evitan que tengas que clonar todo el proyecto nuevamente comandos muy útiles de Git como bisect y revert con distintos comandos y en varios formatos como macros, tratamientos de datos sigue con el editor VIM y uso de características algo más avanzadas con el tema de terminal, más scripting de shell así que justo por ello se comienza la mayoría de estas herramientas serán usadas desde la terminal al trabajar con la computadora con el fin de que pueda ser más productivo o que no se ven con tanta profundidad enseña varias herramientas que normalmente no se ven en las clases llamada missing semestre o el semestre faltante es una clase extra intersemestral del MIT en tu carrera de ciencias de la computación este curso te enseña las herramientas que no te enseñaron y los ejercicios correspondientes encuentras la página de cada lección en la página vas a encontrar por ejemplo, aquí es cómo usan las macros de VIM 

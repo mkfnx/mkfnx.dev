@@ -1,0 +1,15 @@
+---
+title: "Por Que Crearon  Inteligenciaartificial Para Trabajos Creativos Y No Solo"
+description: "por que crearon  inteligenciaartificial para trabajos creativos y no solo"
+date: 2024-08-04
+image: "/images/posts/01.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['InteligenciaArtificial', 'ChatGPT', 'RedesNeuronales', 'MachinLearning', 'GPT3', 'GPT4']
+draft: True
+slug: "por-que-crearon-inteligenciaartificial-para-trabajos-creativos-y-no-solo"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7224354543667121413}" data-video-id="7224354543667121413" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> por que crearon </section> <a title="InteligenciaArtificial" target="_blank" href="https://www.tiktok.com/tag/InteligenciaArtificial?refer=embed">#InteligenciaArtificial</a><a title="ChatGPT" target="_blank" href="https://www.tiktok.com/tag/ChatGPT?refer=embed">#ChatGPT</a><a title="RedesNeuronales" target="_blank" href="https://www.tiktok.com/tag/RedesNeuronales?refer=embed">#RedesNeuronales</a><a title="MachinLearning" target="_blank" href="https://www.tiktok.com/tag/MachinLearning?refer=embed">#MachinLearning</a><a title="GPT3" target="_blank" href="https://www.tiktok.com/tag/GPT3?refer=embed">#GPT3</a><a title="GPT4" target="_blank" href="https://www.tiktok.com/tag/GPT4?refer=embed">#GPT4</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+¿Por qué crearon inteligencias artificiales para hacer trabajos creativos y no para reemplazar trabajos mecánicos y aburridos que nadie quiere hacer? pues la respuesta es bastante curiosa por dos razones la primera es que fue más o menos un accidente ya que no hubo una línea continua de investigación que llevara a crear una IA creativa la segunda es que el área de investigación que llevó a estas IAs creativas surgió justamente gracias a una investigación que pretendía automatizar tareas repetitivas esta investigación fue sobre el reconocimiento por computadora de dígitos escritos a mano y sus resultados fueron aplicados con éxito en el servicio postal de Estados Unidos para organizar paquetes automáticamente y se evita que los humanos estén en el aburrido trabajo de estar organizando esos paquetes diariamente la investigación que me refiero es a las famosas redes neuronales (convolucionales) por último hay que mencionar que las capacidades de la IA se han pronosticado incorrectamente múltiples veces uno de estos ejemplos es justamente esta paradoja de moravec la cual dice que se pensaba que los problemas difíciles para resolver con ia iban a ser los difíciles para los humanos esto no fue así y en cambio habilidades que damos por hecho como motrices y sensoriales han resultado mucho más difíciles de resolver con las habilidades creativas tuvimos un error de estimación similar 🤷 

@@ -1,0 +1,15 @@
+---
+title: "Reto  100Diasdepython En  Replit Y Server De Discord De Apoyo"
+description: "reto  100diasdepython en  replit y server de discord de apoyo"
+date: 2024-08-04
+image: "/images/posts/04.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['100DiasDePython', 'Replit', 'AprendePython', 'AprendeProgramacion', 'Programacion', 'DesarrolloDeSoftware', 'Python', '100DaysOfCode']
+draft: True
+slug: "reto-100diasdepython-en-replit-y-server-de-discord-de-apoyo"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7249931007565057286}" data-video-id="7249931007565057286" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> reto  100diasde </section> <a title="100DiasDePython" target="_blank" href="https://www.tiktok.com/tag/100DiasDePython?refer=embed">#100DiasDePython</a><a title="Replit" target="_blank" href="https://www.tiktok.com/tag/Replit?refer=embed">#Replit</a><a title="AprendePython" target="_blank" href="https://www.tiktok.com/tag/AprendePython?refer=embed">#AprendePython</a><a title="AprendeProgramacion" target="_blank" href="https://www.tiktok.com/tag/AprendeProgramacion?refer=embed">#AprendeProgramacion</a><a title="Programacion" target="_blank" href="https://www.tiktok.com/tag/Programacion?refer=embed">#Programacion</a><a title="DesarrolloDeSoftware" target="_blank" href="https://www.tiktok.com/tag/DesarrolloDeSoftware?refer=embed">#DesarrolloDeSoftware</a><a title="Python" target="_blank" href="https://www.tiktok.com/tag/Python?refer=embed">#Python</a><a title="100DaysOfCode" target="_blank" href="https://www.tiktok.com/tag/100DaysOfCode?refer=embed">#100DaysOfCode</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+únete al reto de 100 días de Python en replit esta es una versión del famoso reto #100DaysOfCode que consiste en dedicar algunos minutos al día aprender programación y compartir tu progreso en redes sociales para comenzar el reto visita replit.com/learn y ahí verás los 100 días de Python como primera opción al dar clic en ese elemento verás una página con todos los detalles del curso como los proyectos a desarrollar y los temas que verás después inicia sesión y podrás comenzar con el reto como una ayuda adicional creé este server de Discord en el que estaré compartiendo material y consejos para ayudarte a completar este reto dejo aquí el link para que te unas o como siempre también puedes encontrarlo en el link de mi perfil para cada día del reto se crea un nuevo proyecto en la plataforma que se ve así tiene un panel de instrucciones un panel de código y otro panel para ver la salida del programa en el panel de instrucciones también se muestran los conceptos de Python que irás aprendiendo para el primer día es una variante del famoso hola mundo en el que escribes código para mostrar algunos mensajes en pantalla nos vemos en el día 2 

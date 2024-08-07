@@ -1,0 +1,15 @@
+---
+title: "Soluciones En Video A Cientos De Problemas De  Algoritmos Y"
+description: "soluciones en video a cientos de problemas de  algoritmos y"
+date: 2024-08-04
+image: "/images/posts/03.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['algoritmos', 'estructurasdedatos', 'programacion', 'python']
+draft: True
+slug: "soluciones-en-video-a-cientos-de-problemas-de-algoritmos-y"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7192348644136226054}" data-video-id="7192348644136226054" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> soluciones en v </section> <a title="algoritmos" target="_blank" href="https://www.tiktok.com/tag/algoritmos?refer=embed">#algoritmos</a><a title="estructurasdedatos" target="_blank" href="https://www.tiktok.com/tag/estructurasdedatos?refer=embed">#estructurasdedatos</a><a title="programacion" target="_blank" href="https://www.tiktok.com/tag/programacion?refer=embed">#programacion</a><a title="python" target="_blank" href="https://www.tiktok.com/tag/python?refer=embed">#python</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+This page contains the video solution to more than  300 algorithm and data structure problems.  As you can see here it is neetcode and the address isneetcode.Io in the bar above  has this trouble practice section which is indicated with that pencil icon.  Here we see 3 lists of algorithm problems and data structures,  the only difference between the 3 are the problems containing "all problems" contains  all 308 and the others have fewer problems,  it is just to fit the preparation time you have available or the number of problems  you consider you have to solve.  To practice the problems are organized in these topics,  from here when you trust a topic the list of problems expands,  in each problem you can check if you have already solved it or not,  it has a link to the page of leet code leet with L what is who created  the problems and offers an environment for you to solve it there on its page.  But here in neetcode with N is where they offer  us the video solution to the problems,  that solution in video because you see it in that little button of the camera,  see a small view of the video there on the same page or you  can go to see it directly to youtube.  By pressing the programming language button,  in this case Python,  we can see the code that gives solution to the problem,  in that little box above we can select the language  in which we want to see the solution.  Another interesting thing neetcode is this section  of the world which is a preview,  which is simply this graph that shows us the  recommended order to study the topics.  Another very common way to use neetcode is to simply google  the title of the leetcode problem,  for example by google "contains duplicate" we quickly find the neetcode video.  Videos from other pages are also available,  but neetcode guarantees that you have a lot of leetcode problems. 

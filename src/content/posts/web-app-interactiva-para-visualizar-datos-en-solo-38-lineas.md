@@ -1,0 +1,15 @@
+---
+title: "Web App Interactiva Para Visualizar Datos En Solo 38 Lineas"
+description: "web app interactiva para visualizar datos en solo 38 lineas"
+date: 2024-08-04
+image: "/images/posts/07.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['Python', 'ProgramaciónPython', 'AnálisisDeDatos', 'CienciaDeDatos', 'DesarrolloWeb', 'aprendeprogramación', 'Streamlit']
+draft: True
+slug: "web-app-interactiva-para-visualizar-datos-en-solo-38-lineas"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7255441627064388869}" data-video-id="7255441627064388869" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> web app interac </section> <a title="Python" target="_blank" href="https://www.tiktok.com/tag/Python?refer=embed">#Python</a><a title="ProgramaciónPython" target="_blank" href="https://www.tiktok.com/tag/ProgramaciónPython?refer=embed">#ProgramaciónPython</a><a title="AnálisisDeDatos" target="_blank" href="https://www.tiktok.com/tag/AnálisisDeDatos?refer=embed">#AnálisisDeDatos</a><a title="CienciaDeDatos" target="_blank" href="https://www.tiktok.com/tag/CienciaDeDatos?refer=embed">#CienciaDeDatos</a><a title="DesarrolloWeb" target="_blank" href="https://www.tiktok.com/tag/DesarrolloWeb?refer=embed">#DesarrolloWeb</a><a title="aprendeprogramación" target="_blank" href="https://www.tiktok.com/tag/aprendeprogramación?refer=embed">#aprendeprogramación</a><a title="Streamlit" target="_blank" href="https://www.tiktok.com/tag/Streamlit?refer=embed">#Streamlit</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+with these 38 lines of Python you can create an interactive web application like this about Uber trips in San Francisco and generates two visualizations the histogram with the distribution of the start time of trips and a map to show the starting location of the trips This first line will be used to place the title of the page. then we see how the management of more complex components is carried out as a checkbox The result of the checkbox will tell us if it is selected or not. and depending on the result,  we will show the table with the original data. and to show the graph,  we simply use the bar_chart function. using the value selected in the slider,  we filter the dataset finally We show the filtered data on a map using the Map function from streamlit. as you can see,  it consists of typical stages of a data analysis process. we combine it with components of streamlit which are very easy to handle since they usually only require one function call and the result can be used as a variable don't forget to follow me if you want to see more content like this about Python and streamlit and comment what topics or applications you would like me to show. 

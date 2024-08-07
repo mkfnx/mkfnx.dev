@@ -1,0 +1,15 @@
+---
+title: "Nuevas Preguntas De Preparacion Para Entrevistas De  Python En Data"
+description: "nuevas preguntas de preparacion para entrevistas de  python en data"
+date: 2024-08-04
+image: "/images/posts/06.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['Python', 'PreparaciónEntrevista', 'Programación', 'EntrevistaLaboral', 'Algoritmos']
+draft: True
+slug: "nuevas-preguntas-de-preparacion-para-entrevistas-de-python-en-data"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7296322825047084293}" data-video-id="7296322825047084293" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> nuevas pregunta </section> <a title="Python" target="_blank" href="https://www.tiktok.com/tag/Python?refer=embed">#Python</a><a title="PreparaciónEntrevista" target="_blank" href="https://www.tiktok.com/tag/PreparaciónEntrevista?refer=embed">#PreparaciónEntrevista</a><a title="Programación" target="_blank" href="https://www.tiktok.com/tag/Programación?refer=embed">#Programación</a><a title="EntrevistaLaboral" target="_blank" href="https://www.tiktok.com/tag/EntrevistaLaboral?refer=embed">#EntrevistaLaboral</a><a title="Algoritmos" target="_blank" href="https://www.tiktok.com/tag/Algoritmos?refer=embed">#Algoritmos</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+Data Lemur lanzó nuevas preguntas Data Lemur lanzó nuevas preguntas de preparación para entrevistas de Python para poder verlas solo necesitas ir al sitio de Data Lemur y presionar el botón de ver todas las preguntas luego en la categoría seleccionas Python al igual que las preguntas de las otras categorías están clasificadas por compañía y por dificultad de mi experiencia en entrevistas para ingeniero de software puedo confirmar que algunas de estas de hecho son parte del proceso de entrevista ninguna es de las más difíciles ya que incluso aquí en el sitio están clasificadas a lo más como de dificultad media pero sí pueden servirte para las primeras fases de los procesos de entrevista en la sección de solución vas a encontrar  el código que resuelve el problema junto con una explicación paso a paso como aquí una solución por fuerza bruta y aquí otra usando un diccionario en la sección de discusión los usuarios pueden solicitar ayuda o publicar sus propias soluciones otra cosa interesante que no había visto en las otras preguntas es este botón de solicitar una pista el cual justo te da pequeñas sugerencias para que puedas llegar a una de las soluciones sin revelar la respuesta totalmente esto es útil ya que es parecido a las pistas  que pueden darte en una entrevista en vivo en el link de mi perfil puedes encontrar el enlace para registrarte a esta página y comenzar a solucionar los problemas 

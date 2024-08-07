@@ -1,0 +1,15 @@
+---
+title: "Esta La  Inteligenciaartificial Sobrevalorada O Infravalorada   Elefectoia"
+description: "esta la  inteligenciaartificial sobrevalorada o infravalorada   elefectoia"
+date: 2024-08-04
+image: "/images/posts/06.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['InteligenciaArtificial', 'ElEfectoIA']
+draft: True
+slug: "esta-la-inteligenciaartificial-sobrevalorada-o-infravalorada--elefectoia"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7170031266983628037}" data-video-id="7170031266983628037" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> esta la  inteli </section> <a title="InteligenciaArtificial" target="_blank" href="https://www.tiktok.com/tag/InteligenciaArtificial?refer=embed">#InteligenciaArtificial</a><a title="ElEfectoIA" target="_blank" href="https://www.tiktok.com/tag/ElEfectoIA?refer=embed">#ElEfectoIA</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+mucha gente piensa que la inteligencia artificial está sobrevalorada por eso no es raro ver memes como estos en donde se burlan de errores básicos que la guía aún comete o este otro que dice las implementaciones no son más que un montón de ips o condiciones pero eso es más un malentendido sobre su definición y sus alcance y en estos tiempos es incluso más probable que lo que hagamos con la ia es menospreciarla y que caigamos en algo conocido como el efecto ia como vemos aquí es cuando la gente niega que cierto comportamiento de la ia sea inteligente un ejemplo de esto es deep blue una computadora de ibm que venció en ajedrez al campeón gary casparo cualquier humano que venza en ajedrez a un campeón se le consideraría muy inteligente pero cuando una computadora lo logra esto se descarta y se dice que en realidad son solo cálculos y fuerza bruta y esto a pesar de no saber en realidad cómo funciona a detalle el cerebro humano o cómo es que un humano es mejor que otro en cierta cosa otra de las razones por las que la ia a veces parece no recibir crédito es que sus aplicaciones se integran rápidamente en otros campos o incluso hacen surgir nuevos interactuamos con aplicaciones de la ia todos los días desde los filtros de imágenes para las aplicación hasta cosas como cálculo de ruta prevención de spam prevención de fraudes entre muchísimas otras y por último otra razón para minimizar la ia es que tal vez inconscientemente nosotros despreciamos cualquier comportamiento que parezca ser tanto o más inteligente que el nuestro y esto pasa también cuando nos comparamos con otras especies por mucho tiempo se ha descartado que los animales pudieran tener un nivel de conciencia similar al nuestro y esto tal vez no sea cierto ya que se ha ido descubriendo que ciertos animales presentan capacidades que consideramos exclusivamente humanas y tú qué piensas sobre esto crees que sí sobrevaloramos la ia o que en realidad la subestimamos 

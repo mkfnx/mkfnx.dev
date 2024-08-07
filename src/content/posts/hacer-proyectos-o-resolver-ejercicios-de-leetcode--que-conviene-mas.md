@@ -1,0 +1,15 @@
+---
+title: "Hacer Proyectos O Resolver Ejercicios De Leetcode   Que Conviene Mas"
+description: "hacer proyectos o resolver ejercicios de leetcode   que conviene mas"
+date: 2024-08-04
+image: "/images/posts/06.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['algoritmos', 'leetcode', 'pythonpuedes', 'AnálisisDeDatos', 'CienciaDeDatos', 'LeetCode', 'Algoritmos', 'ProyectosProgramación', 'CarreraProgramación']
+draft: True
+slug: "hacer-proyectos-o-resolver-ejercicios-de-leetcode--que-conviene-mas"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7390079511997500678}" data-video-id="7390079511997500678" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> hacer proyectos </section> <a title="algoritmos" target="_blank" href="https://www.tiktok.com/tag/algoritmos?refer=embed">#algoritmos</a><a title="leetcode" target="_blank" href="https://www.tiktok.com/tag/leetcode?refer=embed">#leetcode</a><a title="pythonpuedes" target="_blank" href="https://www.tiktok.com/tag/pythonpuedes?refer=embed">#pythonpuedes</a><a title="AnálisisDeDatos" target="_blank" href="https://www.tiktok.com/tag/AnálisisDeDatos?refer=embed">#AnálisisDeDatos</a><a title="CienciaDeDatos" target="_blank" href="https://www.tiktok.com/tag/CienciaDeDatos?refer=embed">#CienciaDeDatos</a><a title="LeetCode" target="_blank" href="https://www.tiktok.com/tag/LeetCode?refer=embed">#LeetCode</a><a title="Algoritmos" target="_blank" href="https://www.tiktok.com/tag/Algoritmos?refer=embed">#Algoritmos</a><a title="ProyectosProgramación" target="_blank" href="https://www.tiktok.com/tag/ProyectosProgramación?refer=embed">#ProyectosProgramación</a><a title="CarreraProgramación" target="_blank" href="https://www.tiktok.com/tag/CarreraProgramación?refer=embed">#CarreraProgramación</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+¿Leetcode o proyectos? uff depende de qué te haga falta ¿eh? pero lo ideal es tener un mix o sea si tú haces los proyectos puede que hagas implementaciones que no requieran algo de algoritmos o que si te lo topas no hagas algo como tan eficiente son áreas distintas entonces podrías tú enseñar tu proyecto y alguien que te evalúe basado en proyectos pues no va a tener ningún problema en contratarte por eso entonces necesitas de las dos, la verdad pero si te vas por el lado totalmente como de algoritmos y alguien quiere evaluar un proyecto o necesitas  probar prácticamente tus conocimientos pues no lo va a demostrar Leetcode completamente Leetcode nada más es como la preparación para entrevista lo que podrías hacer, y varios han hecho es que hacen visualizaciones de algoritmos de Leetcode o cosas así, esa es una buena forma de complementarlos 

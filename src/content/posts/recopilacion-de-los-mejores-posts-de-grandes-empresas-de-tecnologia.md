@@ -1,0 +1,15 @@
+---
+title: "Recopilacion De Los Mejores Posts De Grandes Empresas De Tecnologia"
+description: "recopilacion de los mejores posts de grandes empresas de tecnologia"
+date: 2024-08-04
+image: "/images/posts/06.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['DevTok', 'DesarrolloDeSoftware', 'Peogramación', 'Sistemas', 'TechTok', 'Blogs', 'TechBlogs']
+draft: True
+slug: "recopilacion-de-los-mejores-posts-de-grandes-empresas-de-tecnologia"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7337784103065914630}" data-video-id="7337784103065914630" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> recopilacion de </section> <a title="DevTok" target="_blank" href="https://www.tiktok.com/tag/DevTok?refer=embed">#DevTok</a><a title="DesarrolloDeSoftware" target="_blank" href="https://www.tiktok.com/tag/DesarrolloDeSoftware?refer=embed">#DesarrolloDeSoftware</a><a title="Peogramación" target="_blank" href="https://www.tiktok.com/tag/Peogramación?refer=embed">#Peogramación</a><a title="Sistemas" target="_blank" href="https://www.tiktok.com/tag/Sistemas?refer=embed">#Sistemas</a><a title="TechTok" target="_blank" href="https://www.tiktok.com/tag/TechTok?refer=embed">#TechTok</a><a title="Blogs" target="_blank" href="https://www.tiktok.com/tag/Blogs?refer=embed">#Blogs</a><a title="TechBlogs" target="_blank" href="https://www.tiktok.com/tag/TechBlogs?refer=embed">#TechBlogs</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+These are the best technical items from technology companies.  You can find them in this Ryan Peterman substack post.  I select the most read posts according to media or  Google search data and organize them into 5 categories.  The first is changes to the Tech Stacks  or technologies used in a certain company,  for example the airbnb experience using React Native or  Stripe's migration of millions of lines of code to Typescript.  Another category is to scale backend services,  for example how Open AI scaled kubernetes to more than 7500  nodes or the problems Figma has faced with its database architecture.  In the migrations section you will find how migrated  critical parts of its architecture without service interruptions.  Another very interesting section is this one about finding errors  and here for example Reddit tells how its service was down for  more than 5 hours on pi day and of course the steps followed to fix it.  Finally,  the Build Systems section.  Here we find Stripe and Pinterest stories on how to  upgrade these systems to make them faster and safer.  Comment if you have any recommendations on technical  blogs and don't forget to follow me and visit my  profile for more content on AI programming and data science. 

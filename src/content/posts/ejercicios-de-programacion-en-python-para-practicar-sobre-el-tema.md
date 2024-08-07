@@ -1,0 +1,15 @@
+---
+title: "Ejercicios De  Programacion En  Python Para Practicar Sobre El Tema"
+description: "ejercicios de  programacion en  python para practicar sobre el tema"
+date: 2024-08-04
+image: "/images/posts/03.jpg"
+categories: ['']
+authors: ['Miguel López']
+tags: ['programación', 'Python', 'PythonGym', 'DesarrolloDeSoftware', 'ProgramaciónPython', 'EjerciciosProgramación']
+draft: True
+slug: "ejercicios-de-programacion-en-python-para-practicar-sobre-el-tema"
+---
+
+<blockquote class="tiktok-embed" cite="{https://www.tiktok.com/@mkfnx/video/7387162402313358598}" data-video-id="7387162402313358598" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> ejercicios de   </section> <a title="programación" target="_blank" href="https://www.tiktok.com/tag/programación?refer=embed">#programación</a><a title="Python" target="_blank" href="https://www.tiktok.com/tag/Python?refer=embed">#Python</a><a title="PythonGym" target="_blank" href="https://www.tiktok.com/tag/PythonGym?refer=embed">#PythonGym</a><a title="DesarrolloDeSoftware" target="_blank" href="https://www.tiktok.com/tag/DesarrolloDeSoftware?refer=embed">#DesarrolloDeSoftware</a><a title="ProgramaciónPython" target="_blank" href="https://www.tiktok.com/tag/ProgramaciónPython?refer=embed">#ProgramaciónPython</a><a title="EjerciciosProgramación" target="_blank" href="https://www.tiktok.com/tag/EjerciciosProgramación?refer=embed">#EjerciciosProgramación</a> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+ejercicios de Python para practicar sobre diccionarios el primero es Metathesis del libro Think Python consiste en averiguar si una palabra se puede convertir en otra al intercambiar unas letras una vez implementado el algoritmo te piden probarlo con este archivo de más de 100 000 palabras validar un tablero de ajedrez de automatizando las cosas aburridas con Python se nos envía un diccionario que representa las piezas de un tablero de ajedrez y tenemos que determinar si esto representa una posición posible en un juego frecuencia de letras también de Think Python trata sobre crear un diccionario que cuente la cantidad de letras que hay de cada tipo en una palabra o enunciado este es un ejercicio típico y fundamental  para entender la utilidad de un diccionario tanto que incluso hay una estructura de Python específica para este propósito también están un par sobre manejar el inventario de un videojuego se nos pide actualizar el inventario con el loot que obtenemos de derrotar a un enemigo así que hay que procesar esta lista para actualizar nuestro diccionario recuerda que al final del ejercicio puedes encontrar la solución por si llegas a atorarte en algún punto y también se indica la fuente de todos para que puedas revisar el capítulo del que vienen si necesitas repasar los conceptos 
