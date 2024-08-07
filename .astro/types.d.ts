@@ -886,7 +886,7 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 "hablar-con-un-juguete-para-encontrar-los-errores-en-tu-codigo.md": {
 	id: "hablar-con-un-juguete-para-encontrar-los-errores-en-tu-codigo.md";
-  slug: "hablar-con-un-juguete-para-encontrar-los-errores-en-tu-codigo";
+  slug: "habla-con-un-juguete-para-encontrar-los-errores-en-tu-codigo";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
@@ -1502,7 +1502,7 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 "programacion-softwaredeveloper-javascript-java-aprendeentiktok.md": {
 	id: "programacion-softwaredeveloper-javascript-java-aprendeentiktok.md";
-  slug: "programacion-softwaredeveloper-javascript-java-aprendeentiktok";
+  slug: "juegos-para-ejercitar-tu-logica-de-programacion";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">

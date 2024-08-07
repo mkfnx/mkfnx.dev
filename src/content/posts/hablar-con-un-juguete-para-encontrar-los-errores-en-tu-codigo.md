@@ -1,13 +1,13 @@
 ---
-title: "Hablar con Juguete para Encontrar los Errores en tu Código"
-description: "Hablar con un Juguete para Encontrar los Errores en tu Código"
+title: "Habla Con Un Juguete Para Encontrar Los Errores En Tu Código"
+description: "Habla Con Un Juguete Para Encontrar Los Errores En Tu Código"
 date: 2021-07-17
 image: "/images/posts/05.jpg"
-categories: ['video-corto']
+categories: ['Video Corto']
 authors: ['Miguel Lopez']
 tags: ['Programación', 'Debugging']
 draft: false
-slug: "hablar-con-un-juguete-para-encontrar-los-errores-en-tu-codigo"
+slug: "habla-con-un-juguete-para-encontrar-los-errores-en-tu-codigo"
 ---
 
 ¿Sabías que hablar con una figura de juguete puede ayudarte a resolver tus problemas de programación?
