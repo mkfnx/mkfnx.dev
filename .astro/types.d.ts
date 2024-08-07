@@ -198,6 +198,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"30-dias-para-aprender-machine-learning-en-kaggle.md": {
+	id: "30-dias-para-aprender-machine-learning-en-kaggle.md";
+  slug: "30-dias-para-aprender-machine-learning-en-kaggle";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "algoritmos-de-java-rotos--softwarebugs-bugs-errores-programacionjava-ingenieriadesoftware.md": {
 	id: "algoritmos-de-java-rotos--softwarebugs-bugs-errores-programacionjava-ingenieriadesoftware.md";
   slug: "algoritmos-de-java-rotos--softwarebugs-bugs-errores-programacionjava-ingenieriadesoftware";
@@ -576,13 +583,6 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
-"datascience-cienciadedatos-machinelearning-kaggle-informatica-datos.md": {
-	id: "datascience-cienciadedatos-machinelearning-kaggle-informatica-datos.md";
-  slug: "datascience-cienciadedatos-machinelearning-kaggle-informatica-datos";
-  body: string;
-  collection: "posts";
-  data: InferEntrySchema<"posts">
-} & { render(): Render[".md"] };
 "de-app-python-de-consola-a-una-app-web-que.md": {
 	id: "de-app-python-de-consola-a-una-app-web-que.md";
   slug: "de-app-python-de-consola-a-una-app-web-que";
@@ -740,6 +740,13 @@ declare module 'astro:content' {
 "el-reporte-sobre-calidad-de-codigo-de-programacion-que-menciona.md": {
 	id: "el-reporte-sobre-calidad-de-codigo-de-programacion-que-menciona.md";
   slug: "el-reporte-sobre-calidad-de-codigo-de-programacion-que-menciona";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"el-reto-secreto-de-google-para-reclutar-desarrolladores.md": {
+	id: "el-reto-secreto-de-google-para-reclutar-desarrolladores.md";
+  slug: "el-reto-secreto-de-google-para-reclutar-desarrolladores";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
@@ -936,6 +943,13 @@ declare module 'astro:content' {
 "imprimiendo-en-color-en-la-terminal-con-la-funcion-print.md": {
 	id: "imprimiendo-en-color-en-la-terminal-con-la-funcion-print.md";
   slug: "imprimiendo-en-color-en-la-terminal-con-la-funcion-print";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"juegos-para-ejercitar-tu-logica-de-programacion.md": {
+	id: "juegos-para-ejercitar-tu-logica-de-programacion.md";
+  slug: "juegos-para-ejercitar-tu-logica-de-programacion";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
@@ -1500,13 +1514,6 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
-"programacion-softwaredeveloper-javascript-java-aprendeentiktok.md": {
-	id: "programacion-softwaredeveloper-javascript-java-aprendeentiktok.md";
-  slug: "juegos-para-ejercitar-tu-logica-de-programacion";
-  body: string;
-  collection: "posts";
-  data: InferEntrySchema<"posts">
-} & { render(): Render[".md"] };
 "programando-motomami-en-python--programacion.md": {
 	id: "programando-motomami-en-python--programacion.md";
   slug: "programando-motomami-en-python--programacion";
@@ -1839,13 +1846,6 @@ declare module 'astro:content' {
 "sitio-web-para-practicar-con-preguntas-de-entrevista-de-sql.md": {
 	id: "sitio-web-para-practicar-con-preguntas-de-entrevista-de-sql.md";
   slug: "sitio-web-para-practicar-con-preguntas-de-entrevista-de-sql";
-  body: string;
-  collection: "posts";
-  data: InferEntrySchema<"posts">
-} & { render(): Render[".md"] };
-"softwaredeveloper-programacion-softwareengineer-google-empleo-reclutamiento.md": {
-	id: "softwaredeveloper-programacion-softwareengineer-google-empleo-reclutamiento.md";
-  slug: "softwaredeveloper-programacion-softwareengineer-google-empleo-reclutamiento";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
