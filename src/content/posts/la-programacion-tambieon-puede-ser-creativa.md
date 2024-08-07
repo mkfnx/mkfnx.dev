@@ -3,8 +3,8 @@ title: "La Programación También Puede Ser Creativa"
 description: "La Programación También Puede Ser Creativa"
 date: 2021-08-12
 image: "/images/posts/03.jpg"
-categories: ['']
-authors: ['Miguel López']
+categories: ['Video Corto']
+authors: ['Miguel Lopez']
 tags: ['Programación', 'Programación Creativa', 'Arte Digital', 'Processing', 'Python', 'JavaScript']
 draft: false
 slug: "la-programacion-tambieon-puede-ser-creativa"
