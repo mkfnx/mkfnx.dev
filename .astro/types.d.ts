@@ -207,7 +207,7 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 "algoritmos-de-java-rotos--softwarebugs-bugs-errores-programacionjava-ingenieriadesoftware.md": {
 	id: "algoritmos-de-java-rotos--softwarebugs-bugs-errores-programacionjava-ingenieriadesoftware.md";
-  slug: "algoritmos-de-java-rotos--softwarebugs-bugs-errores-programacionjava-ingenieriadesoftware";
+  slug: "algoritmos-de-java-rotos-por-casi-10-anios";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">

@@ -10,7 +10,7 @@ draft: false
 slug: "repositorios-de-github-con-asombrosas-recomendaciones"
 ---
 
-De hace algunos años, el término Awesaome se está utilizando para crear listas de recursos de programación de gran calidad. Han creado tantas listas de este tipo que usuarios de GitHub se dio a la tarea de crear una lista para recopilarlas todas en un repo que justamente se llama Awesome.
+De hace algunos años, se han creado listas dónde se recopilan recursos de programación de gran calidad, en y usualmente se usa el término Awesome para nombrar estas listas, por ejemplo, una lista de recursos de Java se llamaría Awesome Java. Se han creado tantas listas de este tipo que un usuario de GitHub se dio a la tarea de recopilarlas todas en un repo que simplemente se llama, Awesome.
 
 El repo organiza las listas en varias categorías y estos a su vez pueden contener subcategorías. Por ejemplo, en la categoría de lenguajes de programación tenemos una lista para JavaScript. A la vez tenemos listas para cosas más específicas como paquetes de npm.
 
