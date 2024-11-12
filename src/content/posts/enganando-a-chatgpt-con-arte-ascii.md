@@ -1,6 +1,6 @@
 ---
 title: "Engañando a ChatGPT con arte ASCII"
-description: "un nuevo articulo de investigacion describe como usaron arte ascii"
+description: "Un artículo de investigación describe como usaron arte ASCII para engañar a ChatGPT"
 date: 2024-03-11
 image: "/images/posts/04.jpg"
 categories: ['Video Corto']

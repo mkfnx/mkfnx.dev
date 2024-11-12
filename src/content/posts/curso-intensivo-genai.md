@@ -2,8 +2,8 @@
 title: "Curso Intensivo de IA Generativa de Google y Kaggle"
 description: "Google y Kaggle ofrecen un curso intensivo de 5 días sobre IA generativa"
 date: 2024-11-11
-image: "/images/posts/02.jpg"
-categories: ['Post']
+image: "/images/posts/03.jpg"
+categories: ['Video Corto']
 authors: ['Miguel López']
 tags: ['Inteligencia Artificial', 'GenAI', 'IA Generativa', 'Google', 'Gemini', 'Kaggle', 'Python', 'Jupyter', 'LLMs', 'ChatGPT']
 draft: false
