@@ -14,6 +14,8 @@ Google y Kaggle lanzaron un curso intensivo de 5 días sobre IA generativa, el c
 
 En el siguiente video describo de que trata el curso y más abajo puedes encontrar la lista de materiales de cada uno de los días:
 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mkfnx/video/7429833660779564293" data-video-id="7429833660779564293" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@mkfnx" href="https://www.tiktok.com/@mkfnx?refer=embed">@mkfnx</a> Curso intensivo de  <a title="inteligenciaartificial" target="_blank" href="https://www.tiktok.com/tag/inteligenciaartificial?refer=embed">#InteligenciaArtificial</a> generativa por parte de <a title="kaggle" target="_blank" href="https://www.tiktok.com/tag/kaggle?refer=embed">#Kaggle</a> y <a title="google" target="_blank" href="https://www.tiktok.com/tag/google?refer=embed">#Google</a>  <a title="ia" target="_blank" href="https://www.tiktok.com/tag/ia?refer=embed">#IA</a> <a title="iagenerativa" target="_blank" href="https://www.tiktok.com/tag/iagenerativa?refer=embed">#IAGenerativa</a> <a title="googlegemini" target="_blank" href="https://www.tiktok.com/tag/googlegemini?refer=embed">#GoogleGemini</a> <a title="machinelearning" target="_blank" href="https://www.tiktok.com/tag/machinelearning?refer=embed">#MachineLearning</a> <a target="_blank" title="♬ sonido original  - Miguel" href="https://www.tiktok.com/music/sonido-original-Miguel-7429833700694526725?refer=embed">♬ sonido original  - Miguel</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
 ## Día 1
 
 ### Intro Unit - “Foundational Large Language Models & Text Generation”:
