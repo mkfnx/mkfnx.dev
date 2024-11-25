@@ -38,9 +38,9 @@ The code lab will walk you through getting started with the Gemini API and cover
 - [Optional] Listen to the summary podcast episode (https://youtube.com/watch?v=1CC39K76Nqs) for this unit (created by NotebookLM, https://notebooklm.google.com/).
 - Read the “Embeddings and Vector Stores/Databases” whitepaper (https://kaggle.com/whitepaper-embeddings-and-vector-stores).
 - Complete these code labs on Kaggle:
-Build a RAG question-answering system over custom documents - https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag
-Explore text similarity with embeddings - https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores
-Build a neural classification network with Keras using embeddings - https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras
+    - Build a RAG question-answering system over custom documents - https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag
+    - Explore text similarity with embeddings - https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores
+    - Build a neural classification network with Keras using embeddings - https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras
 
 ## Día 3
 
@@ -57,18 +57,19 @@ Build an agentic ordering system in LangGraph - https://www.kaggle.com/code/mark
 -  [Optional] Listen to the summary podcast episode (https://youtu.be/b1a4ZOQ8XdI) for this unit (created by NotebookLM).
 -  Read the “Solving Domain-Specific Problems Using LLMs” whitepaper - https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms 
 -  Complete these code labs on Kaggle:
-[Optional] Use Google Search data in generation. (Note: Grounding with Google Search has been released as a limited launch and is not available in all locations. The EEA, UK, and CH regions will be supported at a later date) - https://www.kaggle.com/code/markishere/day-4-google-search-grounding
-Tune a Gemini model for a custom task - https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model
+    - [Optional] Use Google Search data in generation. (Note: Grounding with Google Search has been released as a limited launch and is not available in all locations. The EEA, UK, and CH regions will be supported at a later date) - https://www.kaggle.com/code/markishere/day-4-google-search-grounding
+    - Tune a Gemini model for a custom task - https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model
 
 ## Día 5
 
 ### Unidad 5: “MLOps for Generative AI”:
 - [Optional] Listen to the summary podcast episode (https://youtu.be/k9S6IhiUUj4) for this unit (created by NotebookLM, https://notebooklm.google/).
 - Read the “MLOps for Generative AI” whitepaper - https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops
-- No code lab for today! We will do a code walkthrough and live demo of goo.gle/e2e-gen-ai-app-starter-pack (https://goo.gle/e2e-gen-ai-app-starter-pack), a resource created for making MLOps for Gen AI easier and accelerating the path to production. Please go through the repository in advance.
+- No code lab for today! We will do a code walkthrough and live demo of goo.gle/e2e-gen-ai-app-starter-pack (https://goo.gle/e2e-gen-ai-app-starter-pack), a resource created for making MLOps for Gen AI easier and accelerating the path to production.
 
 ## Bonus
-### Codelab "Extra API features to try" https://www.kaggle.com/code/markishere/bonus-day-extra-api-features-to-try/
+### Codelab "Extra API features to try"
+https://www.kaggle.com/code/markishere/bonus-day-extra-api-features-to-try/
 
 ## Grabación Lives Preguntas y Respuestas
 https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es
